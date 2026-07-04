@@ -248,9 +248,9 @@ $20+
 <div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://tinyurl.com/5puxdras" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
 <picture>
-  <source srcset="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif" type="image/webp">
+  <source srcset="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" type="image/webp">
   <img class="vc-header-logo__image" 
-       src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif"
+       src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png"
        style="max-width:150px; height:auto; display:block; margin:0 auto;" 
        alt="Slot">
 </picture>
@@ -1677,7 +1677,7 @@ Togel Online
 <div class='m-footer__trusted-badges'>
 <figure class='m-footer__guarantee-image'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-  <img src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif" 
+  <img src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" 
        alt="Slot" 
        style="width:50%; height:auto; max-width:500px; display:block; margin:0 auto;" />
 </span>
@@ -2447,9 +2447,9 @@ Back To Menu
 <div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://tinyurl.com/5puxdras" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
 <picture>
-  <source srcset="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif" type="image/webp">
+  <source srcset="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" type="image/webp">
   <img class="vc-header-logo__image" 
-       src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif"
+       src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png"
        style="max-width:150px; height:auto; display:block; margin:0 auto;" 
        alt="MAHONGTOTO Logo">
 </picture>
