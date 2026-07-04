@@ -50,7 +50,7 @@
   <meta name="google-play-app" content="app-id=com.ubuy">
 <!-- Disable Alert/Confirm/Prompt --> 
 <!-- Canonical -->
-    <link rel="canonical" href="https://tinyurl.com/5puxdras">
+    <link rel="canonical" href="https://mahongtotoplus.com/">
     <link rel="alternate" href="https://mahongtoto-840.pages.dev/mahongtoto14/amp">
     <link rel="alternate" href="https://mahongtoto-840.pages.dev/mahongtoto14/amp" hreflang="id">
     <link rel="alternate" href="https://mahongtoto-840.pages.dev/mahongtoto14/amp" hreflang="en">
