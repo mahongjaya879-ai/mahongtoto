@@ -19,7 +19,7 @@
   <meta property="og:title" content="🌟 MAHONGTOTO – Masuk ke Dunia Penuh Kejutan, Nikmati Keseruan Game Online Favoritmu! Saatnya menjadi bagian dari cerita!">
   <meta property="og:description" content="Selamat datang di MAHONGTOTO, tempat di mana hiburan game online menjadi lebih seru dan penuh kejutan. Temukan beragam pilihan permainan favorit, promo menarik, serta pengalaman bermain yang nyaman dalam satu platform yang mudah diakses kapan saja.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://tinyurl.com/5puxdras">
+  <meta property="og:url" content="https://mahongtotoplus.com/ras">
   <meta property="og:image" content="https://mahongtoto-840.pages.dev/mahongtoto/mahongtoto14.png">
   <meta property="og:image:width" content="200">
   <meta property="og:image:height" content="200">
@@ -33,15 +33,15 @@
   <meta name="twitter:app:country" content="MAHONGTOTO">
   <meta name="twitter:app:name:iphone" content="MAHONGTOTO">
   <meta name="twitter:app:id:iphone" content="613084551">
-  <meta name="twitter:app:url:iphone" content="https://tinyurl.com/5puxdras">
+  <meta name="twitter:app:url:iphone" content="https://mahongtotoplus.com/ras">
   <meta name="twitter:app:name:googleplay" content="MAHONGTOTO">
   <meta name="twitter:app:id:googleplay" content="MAHONGTOTO">
-  <meta name="twitter:app:url:googleplay" content="https://tinyurl.com/5puxdras">
+  <meta name="twitter:app:url:googleplay" content="https://mahongtotoplus.com/ras">
 <!-- App Links -->
-  <meta property="al:ios:url" content="https://tinyurl.com/5puxdras">
+  <meta property="al:ios:url" content="https://mahongtotoplus.com/ras">
   <meta property="al:ios:app_store_id" content="613084551">
   <meta property="al:ios:app_name" content="Ubuy: International Shopping">
-  <meta property="al:android:url" content="https://tinyurl.com/5puxdras">
+  <meta property="al:android:url" content="https://mahongtotoplus.com/ras">
   <meta property="al:android:package" content="MAHONGTOTO">
   <meta property="al:android:app_name" content="Ubuy Global Shopping App MAHONGTOTO">
   <meta property="al:web:should_fallback" content="true">
@@ -333,14 +333,14 @@ inset 0 0 30px rgba(255, 215, 0, .20)
                             </div>
                         </div>
                     </div>
-                                                                <a class="navbar-brand me-5" href="https://tinyurl.com/5puxdras" title="MAHONGTOTO">
+                                                                <a class="navbar-brand me-5" href="https://mahongtotoplus.com/ras" title="MAHONGTOTO">
                                                                <img height="60" width="100" src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif" alt="MAHONGTOTO">
                                                     </a>
                                     </div>
                                <!-- Header Search Section -->
 <div class="header-center">
   <div class="header-search-bar">
-    <form id="search-form-sm" action="https://tinyurl.com/5puxdras" method="get" class="w-100 d-flex">
+    <form id="search-form-sm" action="https://mahongtotoplus.com/ras" method="get" class="w-100 d-flex">
 
       <!-- Select Category -->
       <div class="select-category dropdown">
@@ -351,100 +351,100 @@ inset 0 0 30px rgba(255, 215, 0, .20)
         <ul class="dropdown-menu">
           <li class="dropdown-item">All</li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Electronics & Gadgets">Electronics & Gadgets</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Electronics & Gadgets">Electronics & Gadgets</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Beauty & Self Care">Beauty & Self Care</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Beauty & Self Care">Beauty & Self Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Toys & Adventures">Toys & Adventures</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Toys & Adventures">Toys & Adventures</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Sports & Outdoor">Sports & Outdoor</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Sports & Outdoor">Sports & Outdoor</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Pet Care">Pet Care</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Pet Care">Pet Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Books & Literature">Books & Literature</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Books & Literature">Books & Literature</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Baby Care & Gear">Baby Care & Gear</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Baby Care & Gear">Baby Care & Gear</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Gloves & Mittens">Gloves & Mittens</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Gloves & Mittens">Gloves & Mittens</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Health & Supplements">Health & Supplements</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Health & Supplements">Health & Supplements</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Electronics">Electronics</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Electronics">Electronics</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Beauty & Personal Care">Beauty & Personal Care</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Beauty & Personal Care">Beauty & Personal Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Fashion">Fashion</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Fashion">Fashion</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Home & Kitchen">Home & Kitchen</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Home & Kitchen">Home & Kitchen</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Baby Essentials">Baby Essentials</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Baby Essentials">Baby Essentials</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Musical Instruments">Musical Instruments</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Musical Instruments">Musical Instruments</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Office Supplies">Office Supplies</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Office Supplies">Office Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Automotive">Automotive</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Automotive">Automotive</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Household Supplies">Household Supplies</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Household Supplies">Household Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Pet Supplies">Pet Supplies</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Pet Supplies">Pet Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Toys & Games">Toys & Games</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Toys & Games">Toys & Games</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Industrial Supplies">Industrial Supplies</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Industrial Supplies">Industrial Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Books">Books</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Books">Books</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/5puxdras" title="Gardening Supplies">Gardening Supplies</a>
+            <a class="search-category-item" href="https://mahongtotoplus.com/ras" title="Gardening Supplies">Gardening Supplies</a>
           </li>
         </ul>
       </div>
@@ -481,15 +481,15 @@ inset 0 0 30px rgba(255, 215, 0, .20)
 </div>
 
                                 <ul class="dropdown-menu rounded border-0">
-                                    <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://tinyurl.com/5puxdras"><span class="" title="Global store" data-href="https://tinyurl.com/5puxdras">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><i style="width:25px; text-align:center; color:#0066ff" class="fa fa-globe primary-text"></i></div><div class="store-title">Global</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://tinyurl.com/5puxdras"><span class="" title="United States store" data-href="https://tinyurl.com/5puxdras">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="us"></span></div><div class="store-title">US</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://tinyurl.com/5puxdras"><span class="" title="United Kingdom store" data-href="https://tinyurl.com/5puxdras">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="uk"></span></div><div class="store-title">UK</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://tinyurl.com/5puxdras"><span class="" title="Europe store" data-href="https://tinyurl.com/5puxdras">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="eu"></span></div><div class="store-title">EU</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://tinyurl.com/5puxdras"><span class="" title="China store" data-href="https://tinyurl.com/5puxdras">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="china"></span></div><div class="store-title">CHINA</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="japan" data-mstore="jp" data-store="jp" data-href="https://tinyurl.com/5puxdras"><span class="" title="Japan store" data-href="https://tinyurl.com/5puxdras">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="japan"></span></div><div class="store-title">Japan</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="hongkong" data-mstore="hk" data-store="hk" data-href="https://tinyurl.com/5puxdras"><span class="" title="Hongkong store" data-href="https://tinyurl.com/5puxdras">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="hongkong"></span></div><div class="store-title">Hongkong</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://tinyurl.com/5puxdras"><span class="" title="Korea store" data-href="https://tinyurl.com/5puxdras">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="korea"></span></div><div class="store-title">Korea</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://tinyurl.com/5puxdras"><span class="" title="Turkey store" data-href="https://tinyurl.com/5puxdras">
+                                    <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://mahongtotoplus.com/ras"><span class="" title="Global store" data-href="https://mahongtotoplus.com/ras">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><i style="width:25px; text-align:center; color:#0066ff" class="fa fa-globe primary-text"></i></div><div class="store-title">Global</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://mahongtotoplus.com/ras"><span class="" title="United States store" data-href="https://mahongtotoplus.com/ras">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="us"></span></div><div class="store-title">US</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://mahongtotoplus.com/ras"><span class="" title="United Kingdom store" data-href="https://mahongtotoplus.com/ras">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="uk"></span></div><div class="store-title">UK</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://mahongtotoplus.com/ras"><span class="" title="Europe store" data-href="https://mahongtotoplus.com/ras">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="eu"></span></div><div class="store-title">EU</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://mahongtotoplus.com/ras"><span class="" title="China store" data-href="https://mahongtotoplus.com/ras">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="china"></span></div><div class="store-title">CHINA</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="japan" data-mstore="jp" data-store="jp" data-href="https://mahongtotoplus.com/ras"><span class="" title="Japan store" data-href="https://mahongtotoplus.com/ras">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="japan"></span></div><div class="store-title">Japan</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="hongkong" data-mstore="hk" data-store="hk" data-href="https://mahongtotoplus.com/ras"><span class="" title="Hongkong store" data-href="https://mahongtotoplus.com/ras">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="hongkong"></span></div><div class="store-title">Hongkong</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://mahongtotoplus.com/ras"><span class="" title="Korea store" data-href="https://mahongtotoplus.com/ras">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="korea"></span></div><div class="store-title">Korea</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://mahongtotoplus.com/ras"><span class="" title="Turkey store" data-href="https://mahongtotoplus.com/ras">
                                                         <div class="store-flag bg-light d-flex align-items-center"><span class="turkey"></span></div><div class="store-title">Turkey</div></span></li>                                </ul>
                             </div>
                                                         
@@ -720,8 +720,8 @@ inset 0 0 30px rgba(255, 215, 0, .20)
                             
                                     <ul class="dropdown-menu rounded border-0">
                                         <li class="welcome-msg">Welcome</li>
-                                        <li class="dropdown-item"><a href="https://tinyurl.com/5puxdras" title="Sign in"><span class="signin-sprite"></span>Sign in</a></li>
-                                        <li class="dropdown-item"><a href="https://tinyurl.com/5puxdras" title="Create an Account"><span class="createaccount-sprite"></span> Create an Account</a>
+                                        <li class="dropdown-item"><a href="https://mahongtotoplus.com/ras" title="Sign in"><span class="signin-sprite"></span>Sign in</a></li>
+                                        <li class="dropdown-item"><a href="https://mahongtotoplus.com/ras" title="Create an Account"><span class="createaccount-sprite"></span> Create an Account</a>
                                         </li>
                                     </ul>
                 </div>
@@ -763,7 +763,7 @@ inset 0 0 30px rgba(255, 215, 0, .20)
                                         <div class="main-slider-container">
                                             <div class="main-product-slider">
                                                 <div class="slide-item skelton">
-                                                                                                    <a class="skelton" data-fancybox="gallery" href="https://tinyurl.com/5puxdras">
+                                                                                                    <a class="skelton" data-fancybox="gallery" href="https://mahongtotoplus.com/ras">
                                                         <img data-fancybox="gallery" src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtoto14.png" alt="🌟 MAHONGTOTO – Masuk ke Dunia Penuh Kejutan, Nikmati Keseruan Game Online Favoritmu! Saatnya menjadi bagian dari cerita!">
                                                 </a>
                                                                                                 </div>
@@ -816,7 +816,7 @@ inset 0 0 30px rgba(255, 215, 0, .20)
                             <div class="single-product-content">                    
                                 <div class="head-content">
                                     <div class="d-flex brand-name">
-                                        <a title="Brand:MAHONGTOTO" class="d-block"  href="https://tinyurl.com/5puxdras">MAHONGTOTO</a>    
+                                        <a title="Brand:MAHONGTOTO" class="d-block"  href="https://mahongtotoplus.com/ras">MAHONGTOTO</a>    
                                     </div>
                                     <p class="h5 font-weight-light brand-name  " >
                                     
@@ -1146,7 +1146,7 @@ inset 0 0 30px rgba(255, 215, 0, .20)
 
                                            <div class="seller-info fs-6 mt-3 "> Powered by : <a
                                             class="seller-modal-link font-normal theme-color" data-bs-toggle="modal"
-                                            data-bs-target="#seller-info" href="https://tinyurl.com/5puxdras">
+                                            data-bs-target="#seller-info" href="https://mahongtotoplus.com/ras">
                                             MAHONGTOTO</a>
                                     </div>
                                    <div class="prime-text ">
@@ -1277,36 +1277,36 @@ inset 0 0 30px rgba(255, 215, 0, .20)
                         </div>
                         <hr>
                         <ul>
-                            <li><a href="https://tinyurl.com/5puxdras"
+                            <li><a href="https://mahongtotoplus.com/ras"
                                     title="About Us MAHONGTOTO">About Us MAHONGTOTO</a></li>
-                            <li><a href="https://tinyurl.com/5puxdras"
+                            <li><a href="https://mahongtotoplus.com/ras"
                                     title="Contact Us MAHONGTOTO">Contact Us MAHONGTOTO</a></li>
-                            <li><a href="https://tinyurl.com/5puxdras"
+                            <li><a href="https://mahongtotoplus.com/ras"
                                     title="Quotation Request">Quotation Request</a>
                             </li>
-                            <li><a href="https://tinyurl.com/5puxdras"
+                            <li><a href="https://mahongtotoplus.com/ras"
                                     title="Intellectual Property">Intellectual Property</a>
                             </li>
-                            <li><a href="https://tinyurl.com/5puxdras"
+                            <li><a href="https://mahongtotoplus.com/ras"
                                     title="Sitemap">Sitemap</a></li>
-                            <li><a href="https://tinyurl.com/5puxdras"
+                            <li><a href="https://mahongtotoplus.com/ras"
                                     title="Track Order">Track Order</a></li>
-                            <li><a href="https://tinyurl.com/5puxdras"
+                            <li><a href="https://mahongtotoplus.com/ras"
                                     title="Customs tariffs and fees">Customs tariffs and fees</a>
                             </li>
-                            <li><a href="https://tinyurl.com/5puxdras"
+                            <li><a href="https://mahongtotoplus.com/ras"
                                     title="Shipping Policy">Shipping Policy</a>
                             </li>
-                            <li><a href="https://tinyurl.com/5puxdras"
+                            <li><a href="https://mahongtotoplus.com/ras"
                                     title="Micro Influencer">Micro Influencer</a>
                             </li>
-                                                        <li><a href="https://tinyurl.com/5puxdras"
+                                                        <li><a href="https://mahongtotoplus.com/ras"
                                     title="Ubuy Membership">Ubuy Membership</a>
                             </li>
-                                                        <li><a href="https://tinyurl.com/5puxdras"
+                                                        <li><a href="https://mahongtotoplus.com/ras"
                                     title="Ubuy Warranty">Ubuy Warranty</a>
                             </li>
-                            <li><a href="https://tinyurl.com/5puxdras"
+                            <li><a href="https://mahongtotoplus.com/ras"
                                     title="Healthcare Disclaimer">Healthcare Disclaimer</a>
                             </li>
                                                     </ul>
@@ -1317,25 +1317,25 @@ inset 0 0 30px rgba(255, 215, 0, .20)
                         </div>
                         <hr>
                         <ul>
-                            <li class="m-0"><a href="https://tinyurl.com/5puxdras"
+                            <li class="m-0"><a href="https://mahongtotoplus.com/ras"
                                     title="Download App MAHONGTOTO">MAHONGTOTO</a></li>
-                            <li><a href="https://tinyurl.com/5puxdras"
+                            <li><a href="https://mahongtotoplus.com/ras"
                                     title="Brands List">Brands List</a>
                             </li>
-                                                        <li class="m-0"><a href="https://tinyurl.com/5puxdras"
+                                                        <li class="m-0"><a href="https://mahongtotoplus.com/ras"
                                     title="Customer Reviews">Customer Reviews</a>
                             </li>
-                            <li class="m-0"><a href="https://tinyurl.com/5puxdras"
+                            <li class="m-0"><a href="https://mahongtotoplus.com/ras"
                                     title="Return Policy">Return Policy</a>
                             </li>
-                                                        <li class="m-0"><a target="_blank" href="https://tinyurl.com/5puxdras"
+                                                        <li class="m-0"><a target="_blank" href="https://mahongtotoplus.com/ras"
                                     title="Blog">Blog</a></li>
-                            <li class="m-0"><a href="https://tinyurl.com/5puxdras"
+                            <li class="m-0"><a href="https://mahongtotoplus.com/ras"
                                     title="FAQ">FAQ</a></li>
-                                                        <li class="m-0"><a href="https://tinyurl.com/5puxdras"
+                                                        <li class="m-0"><a href="https://mahongtotoplus.com/ras"
                                     title="About Ucredit">About Ucredit</a>
                             </li>
-                            <li class="m-0"><a target="_blank" href="https://tinyurl.com/5puxdras"
+                            <li class="m-0"><a target="_blank" href="https://mahongtotoplus.com/ras"
                                     title="MAHONGTOTO Affiliates">MAHONGTOTO Affiliates</a>
                             </li>
                             
@@ -1397,24 +1397,24 @@ inset 0 0 30px rgba(255, 215, 0, .20)
                         </div>
                         <hr>
                        <ul class="mb-0">
-                                                        <li><a                                  href="https://tinyurl.com/5puxdras"
+                                                        <li><a                                  href="https://mahongtotoplus.com/ras"
                                     title="Hongkong">Hongkong</a></li>
-                                                        <li><a                                  href="https://tinyurl.com/5puxdras"
+                                                        <li><a                                  href="https://mahongtotoplus.com/ras"
                                     title="Singapore">Singapore</a></li>
-                                                        <li><a                                  href="https://tinyurl.com/5puxdras"
+                                                        <li><a                                  href="https://mahongtotoplus.com/ras"
                                     title="SITUS SLOT">SITUS SLOT</a></li>
-                                                        <li><a                                  href="https://tinyurl.com/5puxdras"
+                                                        <li><a                                  href="https://mahongtotoplus.com/ras"
                                     title="Sydney">Sydney</a></li>
-                                                        <li><a                                  href="https://tinyurl.com/5puxdras"
+                                                        <li><a                                  href="https://mahongtotoplus.com/ras"
                                     title="Taiwan">Taiwan</a></li>
-                                                        <li><a                                  href="https://tinyurl.com/5puxdras"
+                                                        <li><a                                  href="https://mahongtotoplus.com/ras"
                                     title="Japan">Japan</a></li>
-                                                        <li><a                                  href="https://tinyurl.com/5puxdras"
+                                                        <li><a                                  href="https://mahongtotoplus.com/ras"
                                     title="Cambodia">Cambodia</a></li>
-                                                        <li><a                                  href="https://tinyurl.com/5puxdras"
+                                                        <li><a                                  href="https://mahongtotoplus.com/ras"
                                     title="Jakarta">Jakarta</a></li>
                                                     </ul>  
-                        <a href="https://tinyurl.com/5puxdras" class="view_more_cities text-dark"
+                        <a href="https://mahongtotoplus.com/ras" class="view_more_cities text-dark"
                         title="View more cities">View More Cities <i
                             class="fa-solid fa-angle-right"></i></a>   
                     </div>
@@ -1430,7 +1430,7 @@ inset 0 0 30px rgba(255, 215, 0, .20)
                                     href="https://ubys.us/apps/?type=apps&utm_source=inhd-ubapp&utm_medium=ubuy-website-abroad&utm_term=bottom-icon&utm_campaign=app-install-ubuy-abroad-web-BTM"
                                     target="_blank"></a><a class="play-store d-none m-0"
                                     aria-label="Play Store"
-                                    href="https://tinyurl.com/5puxdras&referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM"
+                                    href="https://mahongtotoplus.com/ras&referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM"
                                     target="_blank"></a>
                             </div>
                         </div>
@@ -1447,7 +1447,7 @@ inset 0 0 30px rgba(255, 215, 0, .20)
                             style="font-size: 16px; color: #666; font-weight:bold;">
                             TRUST ENSURED WITH</p>
                         <div class="ftrisoimg_con d-flex gap-4 align-items-center mt-2">
-                            <a href="https://tinyurl.com/5puxdras" title="PCI DSS" target="_blank">
+                            <a href="https://mahongtotoplus.com/ras" title="PCI DSS" target="_blank">
                                 <img width="94" height="36"
                                     src="https://d2ati23fc66y9j.cloudfront.net/ubuycom-v1/images/loading.gif" 
                                     data-src="https://d2ati23fc66y9j.cloudfront.net/ubuycom/assets/v5/images/pci-dss-compliant.svg"
@@ -1472,15 +1472,15 @@ inset 0 0 30px rgba(255, 215, 0, .20)
                         </div>
                         <div class="col-md-12 col-sm-12 col-lg-6 col-12">
                             <ul class="footer-menu">
-                                <li class="no-content"><a href="https://tinyurl.com/5puxdras"
+                                <li class="no-content"><a href="https://mahongtotoplus.com/ras"
                                         title="Terms & Conditions">Terms & Conditions</a>
                                 </li>
-                                <li><a href="https://tinyurl.com/5puxdras"
+                                <li><a href="https://mahongtotoplus.com/ras"
                                         title="Privacy Policy">Privacy Policy</a>
                                 </li>
-                                <li><a href="https://tinyurl.com/5puxdras"
+                                <li><a href="https://mahongtotoplus.com/ras"
                                         title="About Us">About Us</a></li>
-                                <li><a href="https://tinyurl.com/5puxdras"
+                                <li><a href="https://mahongtotoplus.com/ras"
                                         title="Contact Us">Contact Us</a></li>
                             </ul>
                         </div>
@@ -1488,15 +1488,15 @@ inset 0 0 30px rgba(255, 215, 0, .20)
                             <div class="followus d-flex justify-content-start">
                                 <span class="mr-5">Follow Us</span>
                                 <div class="social-footer">
-                                    <a href="https://tinyurl.com/5puxdras" title="Facebook" target="_blank"><i
+                                    <a href="https://mahongtotoplus.com/ras" title="Facebook" target="_blank"><i
                                             class="fa-brands fa-facebook-f"></i></a>
-                                    <a href="https://tinyurl.com/5puxdras" title="Instagram"
+                                    <a href="https://mahongtotoplus.com/ras" title="Instagram"
                                         target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                    <a href="https://tinyurl.com/5puxdras" title="Youtube"
+                                    <a href="https://mahongtotoplus.com/ras" title="Youtube"
                                         target="_blank"><i class="fa-brands fa-youtube"></i></a>
-                                    <a href="https://tinyurl.com/5puxdras" title="Twitter"
+                                    <a href="https://mahongtotoplus.com/ras" title="Twitter"
                                         target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
-                                    <a href="https://tinyurl.com/5puxdras" title="Pinterest"
+                                    <a href="https://mahongtotoplus.com/ras" title="Pinterest"
                                         target="_blank"><i class="fa-brands fa-pinterest"></i></a>
                                 </div>
                             </div>
@@ -1569,7 +1569,7 @@ inset 0 0 30px rgba(255, 215, 0, .20)
     
             function getCartData() {
             jQuery.ajax({
-                url: "https://tinyurl.com/5puxdras",
+                url: "https://mahongtotoplus.com/ras",
                 dataType: 'html',
                 type: 'GET',
                 data: {
@@ -1733,7 +1733,7 @@ inset 0 0 30px rgba(255, 215, 0, .20)
         }
         if (shop_cat_loader.length > 0) {
             isFetchingCat = jQuery.ajax({
-                url: "https://tinyurl.com/5puxdras",
+                url: "https://mahongtotoplus.com/ras",
                 type: 'GET',
                 data: post_data,
                 dataType: 'html',
@@ -1755,7 +1755,7 @@ inset 0 0 30px rgba(255, 215, 0, .20)
         exploreGtmEvent("explore_brand", "desktop");
         if (shop_cat_loader.length > 0) {
             isFetchingBrand = jQuery.ajax({
-                url: "https://tinyurl.com/5puxdras",
+                url: "https://mahongtotoplus.com/ras",
                 type: 'GET',
                 data: {
                     s_id: '122',
@@ -1788,7 +1788,7 @@ inset 0 0 30px rgba(255, 215, 0, .20)
             post_data.current_active_store = 'us';
         }
         isFetchingCat = jQuery.ajax({
-            url: "https://tinyurl.com/5puxdras",
+            url: "https://mahongtotoplus.com/ras",
             type: 'GET',
             data: post_data,
             dataType: 'html',
@@ -1852,7 +1852,7 @@ inset 0 0 30px rgba(255, 215, 0, .20)
         if (jQuery("#searchRelatedProducts").length > 0) {
             jQuery(document).on('click', '#searchRelatedProducts', function() {
                 if (typeof customEvent === "function") {
-                    var product_url = 'https://tinyurl.com/5puxdras';
+                    var product_url = 'https://mahongtotoplus.com/ras';
                     var ecommerceData = {
                         url: product_url
                     };
@@ -1876,7 +1876,7 @@ inset 0 0 30px rgba(255, 215, 0, .20)
                     trustpilot: true                }
                 gtm_data = btoa(JSON.stringify(gtm_data));
                 jQuery.ajax({
-                    url: "https://tinyurl.com/5puxdras",
+                    url: "https://mahongtotoplus.com/ras",
                     type: "GET",
                     dataType: "html",
                     headers: {
@@ -2364,24 +2364,24 @@ inset 0 0 30px rgba(255, 215, 0, .20)
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://tinyurl.com/5puxdras",
+      "@id": "https://mahongtotoplus.com/ras",
       "name": "MAHONGTOTO",
-      "url": "https://tinyurl.com/5puxdras",
+      "url": "https://mahongtotoplus.com/ras",
       "logo": {
         "@type": "ImageObject",
         "url": "https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif"
       },
       "description": "MAHONGTOTO menghadirkan informasi seputar permainan klasik SITUS SLOT yang populer di tahun 2026 dengan pembahasan lengkap, menarik, dan mudah diakses.",
       "sameAs": [
-        "https://tinyurl.com/5puxdras"
+        "https://mahongtotoplus.com/ras"
       ]
     },
     {
       "@type": "WebSite",
-      "@id": "https://tinyurl.com/5puxdras",
+      "@id": "https://mahongtotoplus.com/ras",
       "name": "MAHONGTOTO",
       "alternateName": "MAHONGTOTO Permainan Klasik SITUS SLOT Sangat Terpopuler di Tahun 2026",
-      "url": "https://tinyurl.com/5puxdras",
+      "url": "https://mahongtotoplus.com/ras",
       "description": "MAHONGTOTO membahas permainan klasik SITUS SLOT yang sangat terpopuler di tahun 2026 dengan informasi lengkap, tren terbaru, dan pembahasan yang mudah dipahami.",
       "keywords": [
         "MAHONGTOTO",
@@ -2396,19 +2396,19 @@ inset 0 0 30px rgba(255, 215, 0, .20)
         "MAHONGTOTO 2026"
       ],
       "publisher": {
-        "@id": "https://tinyurl.com/5puxdras"
+        "@id": "https://mahongtotoplus.com/ras"
       },
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://tinyurl.com/5puxdras?s={search_term_string}",
+        "target": "https://mahongtotoplus.com/ras?s={search_term_string}",
         "query-input": "required name=search_term_string"
       },
       "inLanguage": "id-ID"
     },
     {
       "@type": "WebPage",
-      "@id": "https://tinyurl.com/5puxdras",
-      "url": "https://tinyurl.com/5puxdras",
+      "@id": "https://mahongtotoplus.com/ras",
+      "url": "https://mahongtotoplus.com/ras",
       "name": "MAHONGTOTO ◈ Permainan Klasik SITUS SLOT Sangat Terpopuler di Tahun 2026",
       "headline": "MAHONGTOTO ◈ Permainan Klasik SITUS SLOT Sangat Terpopuler di Tahun 2026",
       "description": "MAHONGTOTO menghadirkan pembahasan lengkap mengenai permainan klasik SITUS SLOT yang sangat populer di tahun 2026, mulai dari tren, pasaran favorit, hingga pengalaman pemain.",
@@ -2423,16 +2423,16 @@ inset 0 0 30px rgba(255, 215, 0, .20)
         "Tren Macau 2026"
       ],
       "isPartOf": {
-        "@id": "https://tinyurl.com/5puxdras"
+        "@id": "https://mahongtotoplus.com/ras"
       },
       "about": {
-        "@id": "https://tinyurl.com/5puxdras"
+        "@id": "https://mahongtotoplus.com/ras"
       },
       "breadcrumb": {
-        "@id": "https://tinyurl.com/5puxdras"
+        "@id": "https://mahongtotoplus.com/ras"
       },
       "mainEntity": {
-        "@id": "https://tinyurl.com/5puxdras#"
+        "@id": "https://mahongtotoplus.com/ras#"
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
@@ -2448,9 +2448,9 @@ inset 0 0 30px rgba(255, 215, 0, .20)
     },
     {
       "@type": "Article",
-      "@id": "https://tinyurl.com/5puxdras",
+      "@id": "https://mahongtotoplus.com/ras",
       "mainEntityOfPage": {
-        "@id": "https://tinyurl.com/5puxdras"
+        "@id": "https://mahongtotoplus.com/ras"
       },
       "headline": "MAHONGTOTO ◈ Permainan Klasik SITUS SLOT Sangat Terpopuler di Tahun 2026",
       "description": "MAHONGTOTO membahas popularitas permainan klasik SITUS SLOT di tahun 2026, termasuk tren terbaru, pasaran favorit, dan daya tarik yang membuatnya tetap diminati.",
@@ -2460,10 +2460,10 @@ inset 0 0 30px rgba(255, 215, 0, .20)
       },
       "author": {
         "@type": "Organization",
-        "@id": "https://tinyurl.com/5puxdras"
+        "@id": "https://mahongtotoplus.com/ras"
       },
       "publisher": {
-        "@id": "https://tinyurl.com/5puxdras"
+        "@id": "https://mahongtotoplus.com/ras"
       },
       "datePublished": "2026-06-06",
       "dateModified": "2026-06-14",
@@ -2479,31 +2479,31 @@ inset 0 0 30px rgba(255, 215, 0, .20)
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://tinyurl.com/5puxdras",
+      "@id": "https://mahongtotoplus.com/ras",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "MAHONGTOTO",
-          "item": "https://tinyurl.com/5puxdras"
+          "item": "https://mahongtotoplus.com/ras"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "SITUS SLOT",
-          "item": "https://tinyurl.com/5puxdras"
+          "item": "https://mahongtotoplus.com/ras"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "SITUS SLOT 2026",
-          "item": "https://tinyurl.com/5puxdras"
+          "item": "https://mahongtotoplus.com/ras"
         }
       ]
     },
 {
       "@type": "FAQPage",
-      "@id": "https://tinyurl.com/5puxdras",
+      "@id": "https://mahongtotoplus.com/ras",
       "mainEntity": [
         {
           "@type": "Question",
