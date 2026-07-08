@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://ramekali.me/mahongjun" rel="preconnect"/>
+<link href="https://jullfestival.com/" rel="preconnect"/>
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
@@ -15,7 +15,7 @@
 <title>🚀 MAHONGTOTO – Jangan Cuma Kaget, Ambil Kesempatan dan Nikmati Keseruan Game Online!</title>
 <meta name="title" content="🚀 MAHONGTOTO – Jangan Cuma Kaget, Ambil Kesempatan dan Nikmati Keseruan Game Online!">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://ramekali.me/mahongjun">
+<link rel="canonical" href="https://jullfestival.com/">
 <link rel="amphtml" href="https://mahongtoto-840.pages.dev/duniatanpacahaya/amp">
 <link rel="alternate" hreflang="id-id" href="https://mahongtoto-840.pages.dev/duniatanpacahaya/amp" />
 <link rel="alternate" href="https://mahongtoto-840.pages.dev/duniatanpacahaya/amp" />
@@ -33,12 +33,12 @@
 <meta name="sitecode" content="id">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="🚀 MAHONGTOTO – Jangan Cuma Kaget, Ambil Kesempatan dan Nikmati Keseruan Game Online!">
-<meta name="twitter:url" content="https://ramekali.me/mahongjun">
+<meta name="twitter:url" content="https://jullfestival.com/">
 <meta name="twitter:image" content="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="MAHONGTOTO">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://ramekali.me/mahongjun">
+<meta property="og:url" content="https://jullfestival.com/">
 <meta property="og:title" content="🚀 MAHONGTOTO – Jangan Cuma Kaget, Ambil Kesempatan dan Nikmati Keseruan Game Online!">
 <meta property="og:description" content="Selamat datang di MAHONGTOTO, situs slot gacor terpercaya dengan peluang kemenangan maksimal. Dapatkan pola RTP jitu dan strategi anti rungkat hari ini.">
 <meta property="og:image" content="https://mahongtoto-840.pages.dev/mahongtoto/download-gambar-ai-mahong.png">
@@ -704,9 +704,9 @@ digitalData.page.pageInfo.pageName = pageName;
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://ramekali.me/mahongjun#organization",
+        "@id": "https://jullfestival.com/#organization",
         "name": "S7",
-        "url": "https://ramekali.me/mahongjun",
+        "url": "https://jullfestival.com/",
         "logo": "https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif",
         "sameAs": [
           "https://facebook.com/MAHONGTOTO",
@@ -732,32 +732,32 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://ramekali.me/mahongjun#breadcrumb",
+        "@id": "https://jullfestival.com/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "MAHONGTOTO",
-            "item": "https://ramekali.me/mahongjun-MAHONGTOTO"
+            "item": "https://jullfestival.com/-MAHONGTOTO"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "MAHONGTOTO Resmi",
-            "item": "https://ramekali.me/mahongjun - MAHONGTOTO Resmi"
+            "item": "https://jullfestival.com/ - MAHONGTOTO Resmi"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "MAHONGTOTO Slot Jitu",
-            "item": "https://ramekali.me/mahongjun - MAHONGTOTO Slot Jitu"
+            "item": "https://jullfestival.com/ - MAHONGTOTO Slot Jitu"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "https://ramekali.me/mahongjundemo#product",
+        "@id": "https://jullfestival.com/demo#product",
         "name": "S7",
         "image": [
           "https://mahongtoto-840.pages.dev/mahongtoto/download-gambar-ai-mahong.png"
@@ -769,7 +769,7 @@ digitalData.page.pageInfo.pageName = pageName;
         },
         "sku": "MAHONGTOTO-Slot",
         "category": "MAHONGTOTO Jitu",
-        "url": "https://ramekali.me/mahongjun",
+        "url": "https://jullfestival.com/",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
@@ -813,7 +813,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ],
         "offers": {
           "@type": "Offer",
-          "url": "https://ramekali.me/mahongjun",
+          "url": "https://jullfestival.com/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -822,7 +822,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "ItemList",
-        "@id": "https://ramekali.me/mahongjun#merchant-listing",
+        "@id": "https://jullfestival.com/#merchant-listing",
         "name": "Situs Slot",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
@@ -831,9 +831,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://ramekali.me/mahongjun/demo-MAHONGTOTO#product",
+              "@id": "https://jullfestival.com//demo-MAHONGTOTO#product",
               "name": "MAHONGTOTO",
-              "url": "https://ramekali.me/mahongjun/demo-MAHONGTOTO",
+              "url": "https://jullfestival.com//demo-MAHONGTOTO",
               "image": "https://mahongtoto-840.pages.dev/mahongtoto/download-gambar-ai-mahong.png",
               "description": "Selamat datang di MAHONGTOTO, situs slot gacor terpercaya dengan peluang kemenangan maksimal. Dapatkan pola RTP jitu dan strategi anti rungkat hari ini.",
               "brand": {
@@ -848,7 +848,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://ramekali.me/mahongjun/MAHONGTOTO-Jitu",
+                "url": "https://jullfestival.com//MAHONGTOTO-Jitu",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -860,9 +860,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "https://ramekali.me/mahongjun/#product",
+              "@id": "https://jullfestival.com//#product",
               "name": "Demo",
-              "url": "https://ramekali.me/mahongjun",
+              "url": "https://jullfestival.com/",
               "image": "https://mahongtoto-840.pages.dev/mahongtoto/download-gambar-ai-mahong.png",
               "description": "Selamat datang di MAHONGTOTO, situs slot gacor terpercaya dengan peluang kemenangan maksimal. Dapatkan pola RTP jitu dan strategi anti rungkat hari ini.",
               "brand": {
@@ -877,7 +877,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://ramekali.me/mahongjun",
+                "url": "https://jullfestival.com/",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -889,9 +889,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://ramekali.me/mahongjun/MAHONGTOTO-resmi#product",
+              "@id": "https://jullfestival.com//MAHONGTOTO-resmi#product",
               "name": "MAHONGTOTO",
-              "url": "https://ramekali.me/mahongjun/MAHONGTOTO-resmi",
+              "url": "https://jullfestival.com//MAHONGTOTO-resmi",
               "image": "https://mahongtoto-840.pages.dev/mahongtoto/download-gambar-ai-mahong.png",
               "description": "Selamat datang di MAHONGTOTO, situs slot gacor terpercaya dengan peluang kemenangan maksimal. Dapatkan pola RTP jitu dan strategi anti rungkat hari ini.",
               "brand": {
@@ -906,7 +906,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://ramekali.me/mahongjun/MAHONGTOTO-jitu",
+                "url": "https://jullfestival.com//MAHONGTOTO-jitu",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -924,27 +924,27 @@ digitalData.page.pageInfo.pageName = pageName;
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://ramekali.me/mahongjun#org",
+      "@id": "https://jullfestival.com/#org",
       "name": "MAHONGTOTO",
-      "url": "https://ramekali.me/mahongjun",
+      "url": "https://jullfestival.com/",
       "logo": "https://mahongtoto-840.pages.dev/mahongtoto/download-gambar-ai-mahong.png"
     },
     {
       "@type": "WebSite",
-      "@id": "https://ramekali.me/mahongjun#website",
-      "url": "https://ramekali.me/mahongjun",
+      "@id": "https://jullfestival.com/#website",
+      "url": "https://jullfestival.com/",
       "name": "MAHONGTOTO",
-      "publisher": { "@id": "https://ramekali.me/mahongjun#org" },
+      "publisher": { "@id": "https://jullfestival.com/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://ramekali.me/mahongjun?s={search_term_string}",
+        "target": "https://jullfestival.com/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://ramekali.me/mahongjun#app",
+      "@id": "https://jullfestival.com/#app",
       "name": "MAHONGTOTO",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -981,12 +981,12 @@ digitalData.page.pageInfo.pageName = pageName;
 
  <body>
 <div style="display: none;">
-<a href="https://ramekali.me/mahongjun">MAHONGTOTO</a>
-<a href="https://ramekali.me/mahongjun">MAHONGTOTO resmi/a>
-<a href="https://ramekali.me/mahongjun">MAHONGTOTO slot</a>
-<a href="https://ramekali.me/mahongjun">MAHONGTOTO jitu</a>
-<a href="https://ramekali.me/mahongjun">MAHONGTOTO gacor</a>
-<a href="https://ramekali.me/mahongjun">slot gacor jitu 2026</a>
+<a href="https://jullfestival.com/">MAHONGTOTO</a>
+<a href="https://jullfestival.com/">MAHONGTOTO resmi/a>
+<a href="https://jullfestival.com/">MAHONGTOTO slot</a>
+<a href="https://jullfestival.com/">MAHONGTOTO jitu</a>
+<a href="https://jullfestival.com/">MAHONGTOTO gacor</a>
+<a href="https://jullfestival.com/">slot gacor jitu 2026</a>
 
 </div>
 
@@ -1115,7 +1115,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://ramekali.me/mahongjun">
+       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://jullfestival.com/">
         <img src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif" alt="" width="200" height="56"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1403,7 +1403,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramekali.me/mahongjun" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jullfestival.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             MAHONGTOTO
             </span>
@@ -1420,7 +1420,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramekali.me/mahongjun" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jullfestival.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              MAHONGTOTO RESMI
             </span>
@@ -1434,7 +1434,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramekali.me/mahongjun" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jullfestival.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              MAHONGTOTO SLOT
             </span>
@@ -1448,7 +1448,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramekali.me/mahongjun" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jullfestival.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              MAHONGTOTO GACOR
             </span>
@@ -1462,7 +1462,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramekali.me/mahongjun" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jullfestival.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT GACOR JITU
             </span>
@@ -1476,7 +1476,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramekali.me/mahongjun" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jullfestival.com/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SITUS SLOT RESMI
             </span>
@@ -1509,7 +1509,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="MAHONGTOTO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="MAHONGTOTO Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ramekali.me/mahongjun" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="MAHONGTOTO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="MAHONGTOTO Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jullfestival.com/" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1517,10 +1517,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://ramekali.me/mahongjun" href="https://ramekali.me/mahongjun" role="menuitem">
+         <a data-linkinfo="https://jullfestival.com/" href="https://jullfestival.com/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://ramekali.me/mahongjun" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://jullfestival.com/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1543,7 +1543,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://ramekali.me/mahongjun" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://jullfestival.com/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1593,14 +1593,14 @@ digitalData.page.pageInfo.pageName = pageName;
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-              href="https://ramekali.me/mahongjun"
+              href="https://jullfestival.com/"
               role="menuitem"
               target="_self"
               rel="noopener noreferrer"
-              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://ramekali.me/mahongjun'; return false;">
+              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://jullfestival.com/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://ramekali.me/mahongjun" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://jullfestival.com/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1616,7 +1616,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://ramekali.me/mahongjun" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://jullfestival.com/" role="menuitem">
               slot
             </a>
            </div>
@@ -1648,7 +1648,7 @@ digitalData.page.pageInfo.pageName = pageName;
              <p class="user-name">
              </p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://ramekali.me/mahongjun" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://jullfestival.com/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2196,10 +2196,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://ramekali.me/mahongjun" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://jullfestival.com/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://ramekali.me/mahongjun" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://jullfestival.com/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2701,7 +2701,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://ramekali.me/mahongjun">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://jullfestival.com/">
              Add to cart
             </a>
            </div>
@@ -2861,7 +2861,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://ramekali.me/mahongjun" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://jullfestival.com/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4259,7 +4259,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://ramekali.me/mahongjun" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://jullfestival.com/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6495,42 +6495,42 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     MAHONGTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     MAHONGTOTO RESMI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     MAHONGTOTO SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     MAHONGTOTO JITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     MAHONGTOTO GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     SITUS RESMI SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     SLOT GACOR JITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     SLOT RESMI GACOR 2026
                   </a>
                 </li>
@@ -6555,37 +6555,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Fitur Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Fitur Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Program Referral
                   </a>
                 </li>
@@ -6611,37 +6611,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Live Chat 24/7 Non-Stop
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Responsible Gaming
                   </a>
                 </li>
@@ -6682,17 +6682,17 @@ digitalData.page.pageInfo.pageName = pageName;
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Program VIP
                   </a>
                 </li>
@@ -6719,22 +6719,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Fitur Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Kontak Resmi
                   </a>
                 </li>
@@ -6758,22 +6758,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Tentang MAHONGTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Kenapa Pilih MAHONGTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ramekali.me/mahongjun">
+                  <a class="footer-category__link" href="https://jullfestival.com/">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -6793,7 +6793,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://ramekali.me/mahongjun">
+            <a class="footer-language__anchor" href="https://jullfestival.com/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -6801,7 +6801,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://ramekali.me/mahongjun">
+            <a class="footer-language__anchor" href="https://jullfestival.com/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -8147,7 +8147,7 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://ramekali.me/mahongjun" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://jullfestival.com/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -8428,7 +8428,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://ramekali.me/mahongjun" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://jullfestival.com/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8451,7 +8451,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://ramekali.me/mahongjun" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://jullfestival.com/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8529,11 +8529,11 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://ramekali.me/mahongjun" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://jullfestival.com/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://ramekali.me/mahongjun" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://jullfestival.com/" role="button">
         </a>
        </div>
       </div>
@@ -8599,12 +8599,12 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://ramekali.me/mahongjun" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://jullfestival.com/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://ramekali.me/mahongjun" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://jullfestival.com/" role="button">
            Yakin
           </a>
          </div>
@@ -8629,7 +8629,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://ramekali.me/mahongjun">
+        <a class="cta cta--contained cta--emphasis" href="https://jullfestival.com/">
          Best&auml;tigen
         </a>
        </div>
@@ -8652,7 +8652,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://ramekali.me/mahongjun" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://jullfestival.com/" title="">
          Best&auml;tigen
         </a>
        </div>
@@ -8703,12 +8703,12 @@ digitalData.page.pageInfo.pageName = pageName;
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://ramekali.me/mahongjun" role="button">
+          <a class="cta cta--outlined cta--black" href="https://jullfestival.com/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://ramekali.me/mahongjun" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://jullfestival.com/" role="button">
            Yakin
           </a>
          </div>
