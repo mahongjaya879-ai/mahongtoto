@@ -50,7 +50,7 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://ramekali.me/mahongjun">
+    <link rel="canonical" href="https://globalwebinars.org/">
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -64,10 +64,10 @@
   },
   "sku": "BOTAKHOKI",
   "mpn": "77GCR-001",
-  "url": "https://ramekali.me/mahongjun",
+  "url": "https://globalwebinars.org/",
   "offers": {
     "@type": "Offer",
-    "url": "https://ramekali.me/mahongjun",
+    "url": "https://globalwebinars.org/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -121,31 +121,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "BOTAKHOKI",
-      "item": "https://ramekali.me/mahongjun"
+      "item": "https://globalwebinars.org/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SITUS TOTO",
-      "item": "https://ramekali.me/mahongjun"
+      "item": "https://globalwebinars.org/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "TOGEL ONLINE",
-      "item": "https://ramekali.me/mahongjun"
+      "item": "https://globalwebinars.org/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "BANDAR TOGEL",
-      "item": "https://ramekali.me/mahongjun"
+      "item": "https://globalwebinars.org/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "BANDAR TOGEL ONLINE",
-      "item": "https://ramekali.me/mahongjun"
+      "item": "https://globalwebinars.org/"
     }
   ]
 }
@@ -156,12 +156,12 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "BOTAKHOKI",
-  "url": "https://ramekali.me/mahongjun",
+  "url": "https://globalwebinars.org/",
   "logo": "https://mahongtoto-840.pages.dev/mahongtoto/ab1a5c79-482a-4762-9804-26a28a3273b4.png",
   "sameAs": [
-    "https://ramekali.me/mahongjun",
-    "https://ramekali.me/mahongjun",
-    "https://ramekali.me/mahongjun"
+    "https://globalwebinars.org/",
+    "https://globalwebinars.org/",
+    "https://globalwebinars.org/"
   ],
   "contactPoint": {
     "@type": "ContactPoint",
@@ -184,7 +184,7 @@
     <meta property="og:title" content="MAHONGTOTO – Platform Game Online Terbesar di Indonesia, Lengkap, Aman, dan Penuh Promo Menarik!">
     <meta property="og:description" content="Selamat datang di MAHONGTOTO, platform game online yang menghadirkan berbagai pilihan permainan favorit dalam satu tempat. Dengan layanan profesional, akses yang mudah, serta beragam promo menarik, MAHONGTOTO siap memberikan pengalaman hiburan online yang seru dan nyaman kapan saja."><meta property="og:image" content="https://mahongtoto-840.pages.dev/mahongtoto/ab1a5c79-482a-4762-9804-26a28a3273b4.png" />
     <meta property="og:image:alt" content="MAHONGTOTO – Platform Game Online Terbesar di Indonesia, Lengkap, Aman, dan Penuh Promo Menarik!" />
-    <meta property="og:url" content="https://ramekali.me/mahongjun">
+    <meta property="og:url" content="https://globalwebinars.org/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -196,7 +196,7 @@
     <meta name="twitter:image:alt" content="MAHONGTOTO – Platform Game Online Terbesar di Indonesia, Lengkap, Aman, dan Penuh Promo Menarik!" />
     <meta property="og:title" content="MAHONGTOTO – Platform Game Online Terbesar di Indonesia, Lengkap, Aman, dan Penuh Promo Menarik!">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://ramekali.me/mahongjun">
+    <meta property="og:url" content="https://globalwebinars.org/">
     <meta property="og:image" content="https://mahongtoto-840.pages.dev/mahongtoto/ab1a5c79-482a-4762-9804-26a28a3273b4.png" />
     <meta property="og:image:alt" content="MAHONGTOTO – Platform Game Online Terbesar di Indonesia, Lengkap, Aman, dan Penuh Promo Menarik!" />
     <meta property="og:description" content="Selamat datang di MAHONGTOTO, platform game online yang menghadirkan berbagai pilihan permainan favorit dalam satu tempat. Dengan layanan profesional, akses yang mudah, serta beragam promo menarik, MAHONGTOTO siap memberikan pengalaman hiburan online yang seru dan nyaman kapan saja.">
@@ -848,16 +848,16 @@
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://ramekali.me/mahongjun">BOTAKHOKI</a>
-<a href="https://ramekali.me/mahongjun">SITUS TOTO</a>
-<a href="https://ramekali.me/mahongjun">TOGEL ONLINE</a>
-<a href="https://ramekali.me/mahongjun">TOTO TOGEL</a>
-<a href="https://ramekali.me/mahongjun">SITUS TOTO</a>
-<a href="https://ramekali.me/mahongjun">BOTAKHOKI RESMI</a>
-<a href="https://ramekali.me/mahongjun">SITUS GACOR</a>
-<a href="https://ramekali.me/mahongjun">BANDAR TOGEL</a>
-<a href="https://ramekali.me/mahongjun">SITUS TOTO TOGEL</a>
-<a href="https://ramekali.me/mahongjun">BANDAR TOGEL ONLINE</a>
+<a href="https://globalwebinars.org/">BOTAKHOKI</a>
+<a href="https://globalwebinars.org/">SITUS TOTO</a>
+<a href="https://globalwebinars.org/">TOGEL ONLINE</a>
+<a href="https://globalwebinars.org/">TOTO TOGEL</a>
+<a href="https://globalwebinars.org/">SITUS TOTO</a>
+<a href="https://globalwebinars.org/">BOTAKHOKI RESMI</a>
+<a href="https://globalwebinars.org/">SITUS GACOR</a>
+<a href="https://globalwebinars.org/">BANDAR TOGEL</a>
+<a href="https://globalwebinars.org/">SITUS TOTO TOGEL</a>
+<a href="https://globalwebinars.org/">BANDAR TOGEL ONLINE</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -944,7 +944,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://ramekali.me/mahongjun">EnvatoMarket</a>
+                    <a href="https://globalwebinars.org/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -952,40 +952,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://ramekali.me/mahongjun"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://globalwebinars.org/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://ramekali.me/mahongjun">
+                    <a class="off-canvas-left__site" href="https://globalwebinars.org/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://ramekali.me/mahongjun">
+                    <a class="off-canvas-left__site" href="https://globalwebinars.org/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://ramekali.me/mahongjun">
+                    <a class="off-canvas-left__site" href="https://globalwebinars.org/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://ramekali.me/mahongjun">
+                    <a class="off-canvas-left__site" href="https://globalwebinars.org/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://ramekali.me/mahongjun">
+                    <a class="off-canvas-left__site" href="https://globalwebinars.org/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://ramekali.me/mahongjun">
+                    <a class="off-canvas-left__site" href="https://globalwebinars.org/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -994,7 +994,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://ramekali.me/mahongjun" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://globalwebinars.org/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1009,393 +1009,393 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://ramekali.me/mahongjun">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://globalwebinars.org/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Top New
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://ramekali.me/mahongjun">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://globalwebinars.org/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Show all
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Real
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://ramekali.me/mahongjun">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://globalwebinars.org/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://ramekali.me/mahongjun">
+                        <a class="off-canvas-category-link--empty" href="https://globalwebinars.org/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://ramekali.me/mahongjun">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://globalwebinars.org/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Show all
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://ramekali.me/mahongjun">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://globalwebinars.org/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Show all
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://ramekali.me/mahongjun">
+                        <a class="off-canvas-category-link--empty" href="https://globalwebinars.org/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://ramekali.me/mahongjun">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://globalwebinars.org/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Show all
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://ramekali.me/mahongjun">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://globalwebinars.org/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">MODX
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://ramekali.me/mahongjun">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://globalwebinars.org/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Show all
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Zen
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://ramekali.me/mahongjun">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://globalwebinars.org/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://ramekali.me/mahongjun">
+                        <a class="off-canvas-category-link--empty" href="https://globalwebinars.org/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://ramekali.me/mahongjun">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://globalwebinars.org/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Free
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://ramekali.me/mahongjun">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://globalwebinars.org/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://ramekali.me/mahongjun">Unlimited
+                                    href="https://globalwebinars.org/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1405,7 +1405,7 @@
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://ramekali.me/mahongjun">Unlimited
+                            href="https://globalwebinars.org/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1417,7 +1417,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://ramekali.me/mahongjun">
+                <a class="off-canvas-right__link--cart" href="https://globalwebinars.org/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1442,7 +1442,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://ramekali.me/mahongjun">
+                                    <a class="btn btn--square" href="https://globalwebinars.org/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1459,21 +1459,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://ramekali.me/mahongjun">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://globalwebinars.org/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://ramekali.me/mahongjun">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://globalwebinars.org/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://ramekali.me/mahongjun">
+                                    <a href="https://globalwebinars.org/">
                                         <img alt="Logo Baru" src="https://mahongtoto-840.pages.dev/mahongtoto/ab1a5c79-482a-4762-9804-26a28a3273b4.png" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1488,19 +1488,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://ramekali.me/mahongjun">
+                                    <a href="https://globalwebinars.org/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://ramekali.me/mahongjun">
+                                                <a class="global-header-menu__link" href="https://globalwebinars.org/">
                                                     <span class="global-header-menu__link-text">
                                                         BOTAKHOKI
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://ramekali.me/mahongjun">
+                                                <a class="global-header-menu__link" href="https://globalwebinars.org/">
                                                     <span class="global-header-menu__link-text">
                                                         TOGEL ONLINE
                                                     </span>
@@ -1522,7 +1522,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://ramekali.me/mahongjun">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://globalwebinars.org/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1625,12 +1625,12 @@
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://ramekali.me/mahongjun">BOTAKHOKI</a>
+                                <a class="js-breadcrumb-category" href="https://globalwebinars.org/">BOTAKHOKI</a>
 
 
-                                <a href="https://ramekali.me/mahongjun" class="js-breadcrumb-category">BANDAR TOGEL</a><a class="js-breadcrumb-category" href="https://ramekali.me/mahongjun">TOGEL ONLINE</a>
+                                <a href="https://globalwebinars.org/" class="js-breadcrumb-category">BANDAR TOGEL</a><a class="js-breadcrumb-category" href="https://globalwebinars.org/">TOGEL ONLINE</a>
 
-                                <a class="js-breadcrumb-category" href="https://ramekali.me/mahongjun">SITUS TOTO</a>
+                                <a class="js-breadcrumb-category" href="https://globalwebinars.org/">SITUS TOTO</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1658,7 +1658,7 @@
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://ramekali.me/mahongjun">BOTAKHOKI</a>
+                                        By <a rel="author" class="js-by-author" href="https://globalwebinars.org/">BOTAKHOKI</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1692,7 +1692,7 @@
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://ramekali.me/mahongjun">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://globalwebinars.org/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -1950,13 +1950,13 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://ramekali.me/mahongjun"><span
+                                                        href="https://globalwebinars.org/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://ramekali.me/mahongjun">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://globalwebinars.org/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -2033,7 +2033,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://ramekali.me/mahongjun">
+                                <a class="item-description-toggle__link" href="https://globalwebinars.org/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2072,7 +2072,7 @@ a:hover {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;MAHONGTOTO – Platform Game Online Terbesar di Indonesia, Lengkap, Aman, dan Penuh Promo Menarik!&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://ramekali.me/mahongjun" accept-charset="UTF-8" method="post">
+                                    action="https://globalwebinars.org/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2103,7 +2103,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://ramekali.me/mahongjun/licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://globalwebinars.org//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
