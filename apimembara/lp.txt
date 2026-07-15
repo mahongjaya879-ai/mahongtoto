@@ -50,12 +50,12 @@
     <meta name="google-site-verification" content="dfyhifxd_CIVYOxIL-_1__opBXesNPUhrMScFMfhibQ" />
     <meta name="google-site-verification" content="sQB4WUnkd99vXlBadPQFXcBiw0zXy9NQv4yXBl5GwhQ" />
     <meta name="description" content="Bersiaplah untuk terbang lebih tinggi bersama MAHONGTOTO, destinasi hiburan online yang menghadirkan pengalaman seru, modern, dan penuh kejutan. Dengan berbagai pilihan permainan menarik, tampilan eksklusif, serta akses yang mudah, MAHONGTOTO siap menemani setiap momen keseruan Anda.">
-	<link rel="amphtml" href="https://mahongtoto-840.pages.dev/apimembara/amp" />
-    <link rel="alternate" hreflang="id-id" href="https://mahongtoto-840.pages.dev/apimembara/amp"/>
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/apimembara/amp"/>
-    <link rel="alternate" hreflang="id" href="https://mahongtoto-840.pages.dev/apimembara/amp"/>
-    <link rel="alternate" hreflang="en" href="https://mahongtoto-840.pages.dev/apimembara/amp"/>
-    <link rel="alternate" hreflang="x-default" href="https://mahongtoto-840.pages.dev/apimembara/amp"/>
+	<link rel="amphtml" href="https://amp.goldensourcetyre.com/" />
+    <link rel="alternate" hreflang="id-id" href="https://amp.goldensourcetyre.com/"/>
+    <link rel="alternate" href="https://amp.goldensourcetyre.com/"/>
+    <link rel="alternate" hreflang="id" href="https://amp.goldensourcetyre.com/"/>
+    <link rel="alternate" hreflang="en" href="https://amp.goldensourcetyre.com/"/>
+    <link rel="alternate" hreflang="x-default" href="https://amp.goldensourcetyre.com/"/>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" sizes="72x72">
@@ -176,9 +176,9 @@
   "url": "https://goldensourcetyre.com/",
   "logo": "https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif",
   "sameAs": [
-    "https://mahongtoto-840.pages.dev/apimembara/amp",
-    "https://mahongtoto-840.pages.dev/apimembara/amp",
-    "https://mahongtoto-840.pages.dev/apimembara/amp"
+    "https://amp.goldensourcetyre.com/",
+    "https://amp.goldensourcetyre.com/",
+    "https://amp.goldensourcetyre.com/"
   ],
   "contactPoint": {
     "@type": "ContactPoint",
@@ -1419,11 +1419,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://mahongtoto-840.pages.dev/apimembara/amp">
+                <a class="off-canvas-right__link" href="https://amp.goldensourcetyre.com/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://mahongtoto-840.pages.dev/apimembara/amp">
+                <a class="off-canvas-right__link" href="https://amp.goldensourcetyre.com/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1504,7 +1504,7 @@
 
 
                                             <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
-                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://mahongtoto-840.pages.dev/apimembara/amp">
+                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://amp.goldensourcetyre.com/">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Menu</title>
                                                         <path
@@ -1532,7 +1532,7 @@
                                                 </li>
 
                                                 <li class="global-header-menu__list-item -background-light -border-radius">
-                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://mahongtoto-840.pages.dev/apimembara/amp">
+                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://amp.goldensourcetyre.com/">
                                                         <span id="spec-user-username" class="global-header-menu__link-text">
                                                         MASUK
                                                     </span>
@@ -1644,7 +1644,7 @@
                                     </div>
 
                                     <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://mahongtoto-840.pages.dev/apimembara/amp">
+                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://amp.goldensourcetyre.com/">
                                             <span class="item-header__cart-button-icon">
                                                 <img src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" alt="MAHONGTOTO" width="24" height="24" style="margin-right: 8px;">
                                             </span>
@@ -1963,10 +1963,10 @@ a:hover {
 </div>
 
                 <div class="button-login-daftar">
-                    <a href="https://mahongtoto-840.pages.dev/apimembara/amp" class="login" 
+                    <a href="https://amp.goldensourcetyre.com/" class="login" 
                     rel="nofollow noreferrer">LOGIN</a>
                     
-                    <a href="https://mahongtoto-840.pages.dev/apimembara/amp" rel="nofollow noreferrer" 
+                    <a href="https://amp.goldensourcetyre.com/" rel="nofollow noreferrer" 
                     class="register">DAFTAR</a>
                                                 </li>
                                         </ul>
@@ -1980,7 +1980,7 @@ a:hover {
 
 
 
-                            <a target="_blank" href="https://mahongtoto-840.pages.dev/apimembara/amp" rel="noopener noreferrer"><img src="https://mahongtoto-840.pages.dev/mahongtoto/78ecfa5c-3dc9-4cdf-99e8-7276c80812c2.png" alt="Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!" width="575" height="575" srcset="https://mahongtoto-840.pages.dev/mahongtoto/78ecfa5c-3dc9-4cdf-99e8-7276c80812c2.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
+                            <a target="_blank" href="https://amp.goldensourcetyre.com/" rel="noopener noreferrer"><img src="https://mahongtoto-840.pages.dev/mahongtoto/78ecfa5c-3dc9-4cdf-99e8-7276c80812c2.png" alt="Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!" width="575" height="575" srcset="https://mahongtoto-840.pages.dev/mahongtoto/78ecfa5c-3dc9-4cdf-99e8-7276c80812c2.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
                                 <div class="js- item-preview-image__gallery" data-title="Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas! - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
@@ -2016,10 +2016,10 @@ a:hover {
                             <div class="item-preview__actions" bis_skin_checked="1">
                                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                    <a href="https://mahongtoto-840.pages.dev/apimembara/amp" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
+                                    <a href="https://amp.goldensourcetyre.com/" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
                                                     </a>
 
-                                    <a data-view="screenshotGallery" href="https://mahongtoto-840.pages.dev/apimembara/amp" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
+                                    <a data-view="screenshotGallery" href="https://amp.goldensourcetyre.com/" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
                                                         DAFTAR
                                                     </a>
 
@@ -2183,7 +2183,7 @@ a:hover {
                                             </p>
                                         </div>
                             <p>
-                             <a href="https://mahongtoto-840.pages.dev/apimembara/amp" target="_blank">
+                             <a href="https://amp.goldensourcetyre.com/" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif" width="300" height="100"/>
                              </a>
                            </p>
@@ -3175,29 +3175,29 @@ a:hover {
 <footer class="fixed-footer">
     <div class="fixed-footer-inner">
 
-        <a href="https://mahongtoto-840.pages.dev/apimembara/amp" class="footer-item active">
+        <a href="https://amp.goldensourcetyre.com/" class="footer-item active">
             <svg viewBox="0 0 24 24"><path d="M3 11l9-8 9 8"/><path d="M5 10v10h14V10"/></svg>
             <span>Beranda</span>
         </a>
 
-        <a href="https://mahongtoto-840.pages.dev/apimembara/amp" class="footer-item">
+        <a href="https://amp.goldensourcetyre.com/" class="footer-item">
             <svg viewBox="0 0 24 24"><rect x="3" y="7" width="18" height="14" rx="2"/><path d="M8 7V5a4 4 0 018 0v2"/></svg>
             <span>Produk</span>
         </a>
 
-        <a href="https://mahongtoto-840.pages.dev/apimembara/amp" class="footer-item cta">
+        <a href="https://amp.goldensourcetyre.com/" class="footer-item cta">
             <span class="footer-icon-wrap">
                 <svg viewBox="0 0 24 24"><path d="M12 2l2.9 6.3L21 9l-5 4.6L17.5 21 12 17.3 6.5 21 8 13.6 3 9l6.1-.7z"/></svg>
             </span>
             <span>Promo</span>
         </a>
 
-        <a href="https://mahongtoto-840.pages.dev/apimembara/amp" class="footer-item">
+        <a href="https://amp.goldensourcetyre.com/" class="footer-item">
             <svg viewBox="0 0 24 24"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg>
             <span>Chat</span>
         </a>
 
-        <a href="https://mahongtoto-840.pages.dev/apimembara/amp" class="footer-item">
+        <a href="https://amp.goldensourcetyre.com/" class="footer-item">
             <svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 4-6 8-6s8 2 8 6"/></svg>
             <span>Akun</span>
         </a>
@@ -3540,8 +3540,8 @@ a:hover {
             <img src="https://mahongtoto-840.pages.dev/mahongtoto/78ecfa5c-3dc9-4cdf-99e8-7276c80812c2.png" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
-                <a href="https://mahongtoto-840.pages.dev/apimembara/amp">LOGIN</a>
-                <a href="https://mahongtoto-840.pages.dev/apimembara/amp">DAFTAR</a>
+                <a href="https://amp.goldensourcetyre.com/">LOGIN</a>
+                <a href="https://amp.goldensourcetyre.com/">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
