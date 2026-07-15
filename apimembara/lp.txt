@@ -41,7 +41,7 @@
         as="image">
     <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png" as="image">
     <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image">
-    <title>Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas!</title>
+    <title>Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!</title>
     <meta name="google-site-verification" content="090LGQc4qmXODXZIJDi1ADO--U0zR2u5uWmWuJzu-84" />
     <meta name="google-site-verification" content="TX-Gqn-k8XKerOTg4Sr3Y77tJSYWD0Snkx_XysjlpZs" />
     <meta name="google-site-verification" content="EmnSUa1x0fBzmd3pP5g2Mqo98cTtjAHNw9iEffkCqFs" />
@@ -67,12 +67,12 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://mahongbonus.com/">
+    <link rel="canonical" href="https://goldensourcetyre.com/">
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas!",
+  "name": "Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!",
   "image": "https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif",
   "description": "Bersiaplah untuk terbang lebih tinggi bersama MAHONGTOTO, destinasi hiburan online yang menghadirkan pengalaman seru, modern, dan penuh kejutan. Dengan berbagai pilihan permainan menarik, tampilan eksklusif, serta akses yang mudah, MAHONGTOTO siap menemani setiap momen keseruan Anda.",
   "brand": {
@@ -81,10 +81,10 @@
   },
   "sku": "LINK-SITUS-TOGEL",
   "mpn": "RJB-GROUP",
-  "url": "https://mahongbonus.com/",
+  "url": "https://goldensourcetyre.com/",
   "offers": {
     "@type": "Offer",
-    "url": "https://mahongbonus.com/",
+    "url": "https://goldensourcetyre.com/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -138,31 +138,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "MAHONGTOTO",
-      "item": "https://mahongbonus.com/"
+      "item": "https://goldensourcetyre.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "LINK TOGEL",
-      "item": "https://mahongbonus.com/"
+      "item": "https://goldensourcetyre.com/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SITUS TOGEL",
-      "item": "https://mahongbonus.com/"
+      "item": "https://goldensourcetyre.com/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOGEL RESMI",
-      "item": "https://mahongbonus.com/"
+      "item": "https://goldensourcetyre.com/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "TOGEL",
-      "item": "https://mahongbonus.com/"
+      "item": "https://goldensourcetyre.com/"
     }
   ]
 }
@@ -173,7 +173,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "MAHONGTOTO",
-  "url": "https://mahongbonus.com/",
+  "url": "https://goldensourcetyre.com/",
   "logo": "https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif",
   "sameAs": [
     "https://mahongtoto-840.pages.dev/apimembara/amp",
@@ -198,23 +198,23 @@
     </script>
     <meta name="bingbot" content="nocache">
     <!-- Open Graph -->
-    <meta property="og:title" content="Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas!">
+    <meta property="og:title" content="Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!">
     <meta property="og:description" content="Bersiaplah untuk terbang lebih tinggi bersama MAHONGTOTO, destinasi hiburan online yang menghadirkan pengalaman seru, modern, dan penuh kejutan. Dengan berbagai pilihan permainan menarik, tampilan eksklusif, serta akses yang mudah, MAHONGTOTO siap menemani setiap momen keseruan Anda.">
     <meta property="og:image" content="https://mahongtoto-840.pages.dev/mahongtoto/78ecfa5c-3dc9-4cdf-99e8-7276c80812c2.png" />
-    <meta property="og:image:alt" content="Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas!" />
-    <meta property="og:url" content="https://mahongbonus.com/">
+    <meta property="og:image:alt" content="Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!" />
+    <meta property="og:url" content="https://goldensourcetyre.com/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas!" />
+    <meta name="twitter:title" content="Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!" />
     <meta name="twitter:description" content="Bersiaplah untuk terbang lebih tinggi bersama MAHONGTOTO, destinasi hiburan online yang menghadirkan pengalaman seru, modern, dan penuh kejutan. Dengan berbagai pilihan permainan menarik, tampilan eksklusif, serta akses yang mudah, MAHONGTOTO siap menemani setiap momen keseruan Anda." />
     <meta name="twitter:image" content="https://mahongtoto-840.pages.dev/mahongtoto/78ecfa5c-3dc9-4cdf-99e8-7276c80812c2.png" />
-    <meta name="twitter:image:alt" content="Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas!" />
-    <meta property="og:title" content="Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas!">
+    <meta name="twitter:image:alt" content="Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!" />
+    <meta property="og:title" content="Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://mahongbonus.com/">
+    <meta property="og:url" content="https://goldensourcetyre.com/">
     <meta property="og:image" content="https://mahongtoto-840.pages.dev/mahongtoto/78ecfa5c-3dc9-4cdf-99e8-7276c80812c2.png" />
-    <meta property="og:image:alt" content="Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas!" />
+    <meta property="og:image:alt" content="Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!" />
     <meta property="og:description" content="Bersiaplah untuk terbang lebih tinggi bersama MAHONGTOTO, destinasi hiburan online yang menghadirkan pengalaman seru, modern, dan penuh kejutan. Dengan berbagai pilihan permainan menarik, tampilan eksklusif, serta akses yang mudah, MAHONGTOTO siap menemani setiap momen keseruan Anda.">
     <meta property="og:site_name" content="ThemeForest">
     <meta name="csrf-param" content="authenticity_token">
@@ -939,7 +939,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://mahongbonus.com/">EnvatoMarket</a>
+                    <a href="https://goldensourcetyre.com/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -947,40 +947,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://mahongbonus.com/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://goldensourcetyre.com/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://mahongbonus.com/">
+                    <a class="off-canvas-left__site" href="https://goldensourcetyre.com/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://mahongbonus.com/">
+                    <a class="off-canvas-left__site" href="https://goldensourcetyre.com/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://mahongbonus.com/">
+                    <a class="off-canvas-left__site" href="https://goldensourcetyre.com/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://mahongbonus.com/">
+                    <a class="off-canvas-left__site" href="https://goldensourcetyre.com/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://mahongbonus.com/">
+                    <a class="off-canvas-left__site" href="https://goldensourcetyre.com/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://mahongbonus.com/">
+                    <a class="off-canvas-left__site" href="https://goldensourcetyre.com/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -989,7 +989,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://mahongbonus.com/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://goldensourcetyre.com/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1004,393 +1004,393 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://mahongbonus.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://goldensourcetyre.com/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://mahongbonus.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://goldensourcetyre.com/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Real
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://mahongbonus.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://goldensourcetyre.com/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://mahongbonus.com/">
+                        <a class="off-canvas-category-link--empty" href="https://goldensourcetyre.com/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://mahongbonus.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://goldensourcetyre.com/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://mahongbonus.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://goldensourcetyre.com/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://mahongbonus.com/">
+                        <a class="off-canvas-category-link--empty" href="https://goldensourcetyre.com/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://mahongbonus.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://goldensourcetyre.com/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://mahongbonus.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://goldensourcetyre.com/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://mahongbonus.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://goldensourcetyre.com/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://mahongbonus.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://goldensourcetyre.com/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://mahongbonus.com/">
+                        <a class="off-canvas-category-link--empty" href="https://goldensourcetyre.com/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://mahongbonus.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://goldensourcetyre.com/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Free
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://mahongbonus.com/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://goldensourcetyre.com/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quoquot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quoquot;:&quot;elements referral&quot;}}"
-                                    href="https://mahongbonus.com/">Unlimited
+                                    href="https://goldensourcetyre.com/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1400,7 +1400,7 @@
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://mahongbonus.com/">Unlimited
+                            href="https://goldensourcetyre.com/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1412,7 +1412,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://mahongbonus.com/">
+                <a class="off-canvas-right__link--cart" href="https://goldensourcetyre.com/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1437,7 +1437,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://mahongbonus.com/">
+                                    <a class="btn btn--square" href="https://goldensourcetyre.com/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1454,21 +1454,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://mahongbonus.com/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://goldensourcetyre.com/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://mahongbonus.com/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://goldensourcetyre.com/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://mahongbonus.com/">
+                                    <a href="https://goldensourcetyre.com/">
                                         <img alt="Logo Baru" src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1483,19 +1483,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://mahongbonus.com/">
+                                    <a href="https://goldensourcetyre.com/">
                                         <img height="50" alt="MAHONGTOTO" class="global-header__logo" src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://mahongbonus.com/">
+                                                <a class="global-header-menu__link" href="https://goldensourcetyre.com/">
                                                     <span class="global-header-menu__link-text">
                                                         MAHONGTOTO
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://mahongbonus.com/">
+                                                <a class="global-header-menu__link" href="https://goldensourcetyre.com/">
                                                     <span class="global-header-menu__link-text">
                                                         MAHONG TOTO
                                                     </span>
@@ -1517,7 +1517,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://mahongbonus.com/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://goldensourcetyre.com/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1584,7 +1584,7 @@
                 
                                             <a target="_blank" class="elements-nav__dropdown-container unique-selling-points__variant" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionName&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                                 data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionName&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                                href="https://mahongbonus.com/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_8988002&amp;utm_medium=referral&amp;utm_source=themeforest.net">
+                                                href="https://goldensourcetyre.com/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_8988002&amp;utm_medium=referral&amp;utm_source=themeforest.net">
                                                 <div class="elements-nav__main-panel" bis_skin_checked="1">
                                                     <img class="elements-nav__logo-container" loading="lazy" src="https://public-assets.envato-static.com/assets/header/EnvatoElements-logo-4f70ffb865370a5fb978e9a1fc5bbedeeecdfceb8d0ebec2186aef4bee5db79d.svg" alt="Elements logo" height="23" width="101">
 
@@ -1630,16 +1630,16 @@
                     <div class="context-header " bis_skin_checked="1">
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
-                              <a class="js-breadcrumb-category" href="//brandingworx.co.za/">MAHONGTOTO</a> <a href="//brandingworx.co.za/" class="js-breadcrumb-category">LINK TOGEL</a> <a class="js-breadcrumb-category" href="https://mahongbonus.com/">SITUS TOGEL</a> <a class="js-breadcrumb-category" href="https://mahongbonus.com/">TOGEL RESMI</a> <a class="js-breadcrumb-category" href="https://mahongbonus.com/">TOGEL</a>
+                              <a class="js-breadcrumb-category" href="//brandingworx.co.za/">MAHONGTOTO</a> <a href="//brandingworx.co.za/" class="js-breadcrumb-category">LINK TOGEL</a> <a class="js-breadcrumb-category" href="https://goldensourcetyre.com/">SITUS TOGEL</a> <a class="js-breadcrumb-category" href="https://goldensourcetyre.com/">TOGEL RESMI</a> <a class="js-breadcrumb-category" href="https://goldensourcetyre.com/">TOGEL</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas!</h1>
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!</h1>
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas!
+                                            Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!
                                         </h1>
                                     </div>
 
@@ -1658,7 +1658,7 @@
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://mahongbonus.com/">MAHONGTOTO</a>
+                                        By <a rel="author" class="js-by-author" href="https://goldensourcetyre.com/">MAHONGTOTO</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1692,7 +1692,7 @@
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://mahongbonus.com/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://goldensourcetyre.com/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -1925,7 +1925,7 @@ a:hover {
                         "items": [{
                             "affiliation": "themeforest",
                             "item_id": 8988002,
-                            "item_name": "Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas!",
+                            "item_name": "Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!",
                             "item_brand": "tokopress",
                             "item_category": "wordpress",
                             "item_category2": "ecommerce",
@@ -1950,13 +1950,13 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://mahongbonus.com/"><span
+                                                        href="https://goldensourcetyre.com/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://mahongbonus.com/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://goldensourcetyre.com/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -1980,8 +1980,8 @@ a:hover {
 
 
 
-                            <a target="_blank" href="https://mahongtoto-840.pages.dev/apimembara/amp" rel="noopener noreferrer"><img src="https://mahongtoto-840.pages.dev/mahongtoto/78ecfa5c-3dc9-4cdf-99e8-7276c80812c2.png" alt="Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas!" width="575" height="575" srcset="https://mahongtoto-840.pages.dev/mahongtoto/78ecfa5c-3dc9-4cdf-99e8-7276c80812c2.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
-                                <div class="js- item-preview-image__gallery" data-title="Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas! - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
+                            <a target="_blank" href="https://mahongtoto-840.pages.dev/apimembara/amp" rel="noopener noreferrer"><img src="https://mahongtoto-840.pages.dev/mahongtoto/78ecfa5c-3dc9-4cdf-99e8-7276c80812c2.png" alt="Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!" width="575" height="575" srcset="https://mahongtoto-840.pages.dev/mahongtoto/78ecfa5c-3dc9-4cdf-99e8-7276c80812c2.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
+                                <div class="js- item-preview-image__gallery" data-title="Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas! - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/02_marketica2_shop_page.png">MARKETICA_PREVIEW/02_marketica2_shop_page.png</a>
@@ -2034,7 +2034,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://mahongbonus.com/">
+                                <a class="item-description-toggle__link" href="https://goldensourcetyre.com/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2072,8 +2072,8 @@ a:hover {
                     <div class="pricebox-container" bis_skin_checked="1">
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
-                                <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas!&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://mahongbonus.com/" accept-charset="UTF-8" method="post">
+                                <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                    action="https://goldensourcetyre.com/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2104,7 +2104,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://mahongbonus.com//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://goldensourcetyre.com//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -2547,7 +2547,7 @@ a:hover {
 
   <!-- Konten teks -->
 <p style="position: relative; z-index: 1; margin: 0;">
-    <a href="https://mahongbonus.com//" style="color: var(--color-yellow-500); text-decoration: none; font-weight: bold;">
+    <a href="https://goldensourcetyre.com//" style="color: var(--color-yellow-500); text-decoration: none; font-weight: bold;">
         Di era digital yang terus berkembang, kebutuhan akan hiburan yang praktis dan menyenangkan semakin meningkat. 
         MAHONGTOTO hadir sebagai pilihan tepat bagi para pencinta permainan online yang menginginkan pengalaman berbeda, modern, dan penuh keseruan. 
         Dengan mengusung semangat “Terbang Tinggi Bersama MAHONGTOTO”, 
@@ -2555,7 +2555,7 @@ a:hover {
 </p>
 
 <p style="position: relative; z-index: 1; margin: 0;">
-    MAHONGTOTO <a href="https://mahongbonus.com//">menawarkan berbagai fitur unggulan yang dirancang untuk memberikan 
+    MAHONGTOTO <a href="https://goldensourcetyre.com//">menawarkan berbagai fitur unggulan yang dirancang untuk memberikan 
     kenyamanan dan pengalaman bermain yang maksimal. Mulai dari tampilan yang elegan, 
     akses yang cepat, hingga beragam pilihan permainan menarik yang dapat dinikmati kapan 
     saja dan di mana saja.
@@ -3545,7 +3545,7 @@ a:hover {
             </div>
 
             <div class="popup-footer">
-                Terbang Tinggi Bersama MAHONGTOTO, Raih Sensasi Kemenangan Tanpa Batas!<br/>
+                Terbang Tinggi Bersama MAHONGTOTO Raih Sensasi Kemenangan Tanpa Batas!<br/>
                 <span style="color: #ffc400; font-weight: 600; text-shadow: 0 0 5px rgba(255, 196, 0, 0.5);">&copy; 2026 &bull; MAHONGTOTO x SEO JagoanNeon 18+.</span>
             </div>
         </div>
