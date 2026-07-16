@@ -6,11 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <link rel="canonical" href="https://relaxglow.de/" />
-    <link rel="amphtml" href="https://mahongtoto-840.pages.dev/kangenmahong/amp" />
-    <link rel="alternate" hreflang="id-id" href="https://mahongtoto-840.pages.dev/kangenmahong/amp"/>
-    <link rel="alternate" hreflang="id" href="https://mahongtoto-840.pages.dev/kangenmahong/amp"/>
-    <link rel="alternate" hreflang="en" href="https://mahongtoto-840.pages.dev/kangenmahong/amp"/>
-    <link rel="alternate" hreflang="x-default" href="https://mahongtoto-840.pages.dev/kangenmahong/amp">
+    <link rel="amphtml" href="https://amp.relaxglow.de/" />
+    <link rel="alternate" hreflang="id-id" href="https://amp.relaxglow.de/"/>
+    <link rel="alternate" hreflang="id" href="https://amp.relaxglow.de/"/>
+    <link rel="alternate" hreflang="en" href="https://amp.relaxglow.de/"/>
+    <link rel="alternate" hreflang="x-default" href="https://amp.relaxglow.de/">
     <meta content='index, follow, nosnippet' name='robots'>
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin />
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin />
@@ -1065,7 +1065,7 @@
             <div class="hura-messages swiper-wrapper">
                 <div class="hura-message swiper-slide slick-slide">
                     MAHONGTOTO – Link Gacor Kepercayaan Bangsa Situs Game Online Terpercaya dengan Bonus Harian & Layanan 24 Jam
-                    <a href="https://mahongtoto-840.pages.dev/kangenmahong/amp" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer">
+                    <a href="https://amp.relaxglow.de/" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer">
                   Daftar Disini !
                   </a>
                 </div>
@@ -1890,12 +1890,12 @@
                                 </header-menu>
                             </li>
                             <li class="right_header_division right_menu_divider"></li>
-                            <li><a href="https://mahongtoto-840.pages.dev/kangenmahong/amp" target="_blank" rel="nofollow noopener noreferrer" class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset">
+                            <li><a href="https://amp.relaxglow.de/" target="_blank" rel="nofollow noopener noreferrer" class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset">
                            <span
                               >Daftar</span>
                            </a>
                             </li>
-                            <li><a href="https://mahongtoto-840.pages.dev/kangenmahong/amp" target="_blank" rel="nofollow noopener noreferrer" class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset">
+                            <li><a href="https://amp.relaxglow.de/" target="_blank" rel="nofollow noopener noreferrer" class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset">
                            <span
                               >Login</span>
                            </a>
@@ -2704,7 +2704,7 @@
                               &nbsp </label>
                                 </fieldset>
                                 <p>
-                                    <a href="https://mahongtoto-840.pages.dev/kangenmahong/amp" target="_blank">
+                                    <a href="https://amp.relaxglow.de/" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://sinimampir.id/sinimampir-id-logo.svg" width="430" height="139"/>
                              </a>
                                 </p>
@@ -4365,23 +4365,23 @@
             </style>
 
             <div class="Slot-Gacor-fixed-footer">
-                <a href="https://mahongtoto-840.pages.dev/kangenmahong/amp" rel="nofollow noopener" target="_blank">
+                <a href="https://amp.relaxglow.de/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" alt=" Mahongtoto">
         Promo
     </a>
-                <a href="https://mahongtoto-840.pages.dev/kangenmahong/amp" rel="nofollow noopener" target="_blank">
+                <a href="https://amp.relaxglow.de/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" alt="LOGIN Situs Slot Gacor">
         Login
     </a>
-                <a href="https://mahongtoto-840.pages.dev/kangenmahong/amp" rel="nofollow noopener" target="_blank" class="tada">
+                <a href="https://amp.relaxglow.de/" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" alt="DAFTAR Slot Gacor Hari Ini">
         Daftar
     </a>
-                <a href="https://mahongtoto-840.pages.dev/kangenmahong/amp" rel="nofollow noopener" target="_blank">
+                <a href="https://amp.relaxglow.de/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" alt="WHATSAPP Situs Slot">
         Whatsapp
     </a>
-                <a href="https://mahongtoto-840.pages.dev/kangenmahong/amp" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+                <a href="https://amp.relaxglow.de/" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png"
             alt="LIVE CHAT MAHONGTOTO">
         Live Chat
@@ -5014,7 +5014,7 @@
     </div>
   </div>
   <div class="testi-cta">
-    <a href="https://mahongtoto-840.pages.dev/kangenmahong/amp" target="_blank" rel="noopener">Tekan untuk rasakan sensasi SLOT GACOR TERPERCAYA</a>
+    <a href="https://amp.relaxglow.de/" target="_blank" rel="noopener">Tekan untuk rasakan sensasi SLOT GACOR TERPERCAYA</a>
   </div>
 </section>
 
@@ -5492,7 +5492,7 @@ small{
                            </a>
                             </li>
                             <li>
-                                <a href="https://mahongtoto-840.pages.dev/kangenmahong/amp" target="_blank" rel="nofollow noopener noreferrer" class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                <a href="https://amp.relaxglow.de/" target="_blank" rel="nofollow noopener noreferrer" class="footer_content_list link link--text list-menu__item list-menu__item--link">
                           Mahongtoto
                            </a>
                             </li>
@@ -5664,7 +5664,7 @@ small{
                            </a>
                             </li>
                             <li>
-                                <a href="https://mahongtoto-840.pages.dev/kangenmahong/amp" target="_blank" rel="nofollow noopener noreferrer" class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                                <a href="https://amp.relaxglow.de/" target="_blank" rel="nofollow noopener noreferrer" class="footer_content_list link link--text list-menu__item list-menu__item--link">
                            Link Slot Gacor
                            </a>
                             </li>
