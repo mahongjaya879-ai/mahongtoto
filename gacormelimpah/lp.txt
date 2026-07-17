@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
@@ -12,14 +13,14 @@
 <meta name="title" content="MAHONGTOTO – Situs Game Online Terpercaya dengan Bonus Harian Transaksi Cepat & Permainan Terlengkap">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://bcrider.com/">
-<link rel="amphtml" href="https://mahongtoto-840.pages.dev/gacormelimpah/amp">
-<link rel="alternate" hreflang="id-id" href="https://mahongtoto-840.pages.dev/gacormelimpah/amp" />
-<link rel="alternate" href="https://mahongtoto-840.pages.dev/gacormelimpah/amp" />
-<link rel="alternate" hreflang="id" href="https://mahongtoto-840.pages.dev/gacormelimpah/amp" />
-<link rel="alternate" hreflang="en" href="https://mahongtoto-840.pages.dev/gacormelimpah/amp" />
-<link rel="alternate" hreflang="x-default" href="https://mahongtoto-840.pages.dev/gacormelimpah/amp" />
-<link rel="alternate" media="only screen and (max-width: 640px)" href="https://mahongtoto-840.pages.dev/gacormelimpah/amp" />
-<link rel="alternate" media="handheld" href="https://mahongtoto-840.pages.dev/gacormelimpah/amp" />
+<link rel="amphtml" href="https://amp.bcrider.com/">
+<link rel="alternate" hreflang="id-id" href="https://amp.bcrider.com/" />
+<link rel="alternate" href="https://amp.bcrider.com/" />
+<link rel="alternate" hreflang="id" href="https://amp.bcrider.com/" />
+<link rel="alternate" hreflang="en" href="https://amp.bcrider.com/" />
+<link rel="alternate" hreflang="x-default" href="https://amp.bcrider.com/" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://amp.bcrider.com/" />
+<link rel="alternate" media="handheld" href="https://amp.bcrider.com/" />
 <meta name="google-site-verification" content="pYMWDkEv0OVd6VEi9AmkmkQQ-Qix6JU2P76A32MY2dc" />
 <meta name="google-site-verification" content="1L8Xutf47qO698K_1JabfbU0CG65-7TIw8iuJg5X-oU" />
 <meta name="google-site-verification" content="QL56UDLefymC48KhXU32L0yXktIM-hNjvON2QAJ9o2s" />
@@ -705,10 +706,10 @@ digitalData.page.pageInfo.pageName = pageName;
         "url": "https://bcrider.com/",
         "logo": "https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif",
         "sameAs": [
-          "https://mahongtoto-840.pages.dev/gacormelimpah/amp",
-          "https://mahongtoto-840.pages.dev/gacormelimpah/amp",
-          "https://mahongtoto-840.pages.dev/gacormelimpah/amp",
-          "https://mahongtoto-840.pages.dev/gacormelimpah/amp"
+          "https://amp.bcrider.com/",
+          "https://amp.bcrider.com/",
+          "https://amp.bcrider.com/",
+          "https://amp.bcrider.com/"
         ],
         "contactPoint": {
           "@type": "ContactPoint",
@@ -4090,8 +4091,8 @@ digitalData.page.pageInfo.pageName = pageName;
         <!-- CTA Buttons - Gold Version (tanpa animasi slot) -->
         <div class="cta-gold-section">
             <div class="cta-buttons-gold">
-                <a href="https://mahongtoto-840.pages.dev/gacormelimpah/amp" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-                <a href="https://mahongtoto-840.pages.dev/gacormelimpah/amp" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
+                <a href="https://amp.bcrider.com/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
+                <a href="https://amp.bcrider.com/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
             </div>
         </div>
     </div>
@@ -6663,17 +6664,17 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mahongtoto-840.pages.dev/gacormelimpah/amp">
+                  <a class="footer-category__link" href="https://amp.bcrider.com/">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mahongtoto-840.pages.dev/gacormelimpah/amp">
+                  <a class="footer-category__link" href="https://amp.bcrider.com/">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mahongtoto-840.pages.dev/gacormelimpah/amp">
+                  <a class="footer-category__link" href="https://amp.bcrider.com/">
                     Lupa Password
                   </a>
                 </li>
@@ -6828,28 +6829,28 @@ digitalData.page.pageInfo.pageName = pageName;
             </span>
             <ul class="footer-sns__list" role="list">
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://mahongtoto-840.pages.dev/gacormelimpah/amp" rel="noreferrer noopener" target="_blank" aria-label="Facebook : Buka di Tab Baru">
+                <a class="footer-sns__link" href="https://amp.bcrider.com/" rel="noreferrer noopener" target="_blank" aria-label="Facebook : Buka di Tab Baru">
                   <svg class="icon" focusable="false">
                     <use href="#facebook-bold" xlink:href="#facebook-bold"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://mahongtoto-840.pages.dev/gacormelimpah/amp" rel="noreferrer noopener" target="_blank" aria-label="Twitter : Buka di Tab Baru">
+                <a class="footer-sns__link" href="https://amp.bcrider.com/" rel="noreferrer noopener" target="_blank" aria-label="Twitter : Buka di Tab Baru">
                   <svg class="icon" focusable="false">
                     <use href="#twitter-bold" xlink:href="#twitter-bold"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://mahongtoto-840.pages.dev/gacormelimpah/amp" rel="noreferrer noopener" target="_blank" aria-label="Instagram : Buka di Tab Baru">
+                <a class="footer-sns__link" href="https://amp.bcrider.com/" rel="noreferrer noopener" target="_blank" aria-label="Instagram : Buka di Tab Baru">
                   <svg class="icon" focusable="false">
                     <use href="#instagram-bold" xlink:href="#instagram-bold"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://mahongtoto-840.pages.dev/gacormelimpah/ampO" rel="noreferrer noopener" target="_blank" aria-label="Youtube : Buka di Tab Baru">
+                <a class="footer-sns__link" href="https://amp.bcrider.com/O" rel="noreferrer noopener" target="_blank" aria-label="Youtube : Buka di Tab Baru">
                   <svg class="icon" focusable="false">
                     <use href="#youtube-bold" xlink:href="#youtube-bold"></use>
                   </svg>
@@ -10544,9 +10545,9 @@ Di tengah pesatnya perkembangan hiburan digital, memilih platform game online ya
         <div class="slot">
             <img src="https://mahongtoto-840.pages.dev/mahongtoto/8331fbea-1cb7-44aa-8928-9c1a4de315ee.png" alt="Popup Banner" class="popup-image" />
             <div class="clk-btn-sgp" style="font-size: 20px;">
-                <a href="https://mahongtoto-840.pages.dev/gacormelimpah/amp" target="_blank" rel="nofollow noreferrer"
+                <a href="https://amp.bcrider.com/" target="_blank" rel="nofollow noreferrer"
                     class="login">LOGIN</a>
-                <a href="https://mahongtoto-840.pages.dev/gacormelimpah/amp" target="_blank" rel="nofollow noreferrer"
+                <a href="https://amp.bcrider.com/" target="_blank" rel="nofollow noreferrer"
                     class="register">DAFTAR</a>
             </div>
             <div class="popup-footer">
@@ -10589,5 +10590,6 @@ Di tengah pesatnya perkembangan hiburan digital, memilih platform game online ya
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"d529a7b7ea99498aae01f7c4e75ba403","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"d529a7b7ea99498aae01f7c4e75ba403","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"d529a7b7ea99498aae01f7c4e75ba403","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"78be0d85d76040b3a4c01756ef4bfd06","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 </html>
