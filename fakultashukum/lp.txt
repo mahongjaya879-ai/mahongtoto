@@ -6797,27 +6797,27 @@ margin:0 26px 35px;
       </style>
      
      <div class="footer-floating-situs">
-      <a href="https://$$$$$$$$$$$$$$$$$$$/" class="footer-btn-slot promo" target="_blank"
+      <a href="https://mahongtoto-840.pages.dev/fakultashukum/amp" class="footer-btn-slot promo" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" alt="PROMOSI"> PROMO
             </a>
 
-      <a href="https://$$$$$$$$$$$$$$$$$$$/" class="footer-btn-slot login" target="_blank"
+      <a href="https://mahongtoto-840.pages.dev/fakultashukum/amp" class="footer-btn-slot login" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" alt="Login"> LOGIN
             </a>
 
-      <a href="https://$$$$$$$$$$$$$$$$$$$/" class="footer-btn-slot daftar" target="_blank"
+      <a href="https://mahongtoto-840.pages.dev/fakultashukum/amp" class="footer-btn-slot daftar" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" alt="Daftar"> DAFTAR
             </a>
 
-      <a href="https://$$$$$$$$$$$$$$$$$$$/" class="footer-btn-slot link" target="_blank"
+      <a href="https://mahongtoto-840.pages.dev/fakultashukum/amp" class="footer-btn-slot link" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" alt="Link Alternatif"> LINK ALTERNATIF
             </a>
 
-      <a href="https://$$$$$$$$$$$$$$$$$$$/" class="footer-btn-slot chat" target="_blank"
+      <a href="https://mahongtoto-840.pages.dev/fakultashukum/amp" class="footer-btn-slot chat" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" alt="Live Chat"> LIVE CHAT
             </a>
