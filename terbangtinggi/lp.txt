@@ -45,7 +45,7 @@
     <title>MAHONGTOTO | Platform Terpercaya Toto Macau & Result Macau Terupdate 2026</title>
     <meta name="description"
         content="MAHONGTOTO agen bandar situs Toto Macau lengkap No.1 di Indonesia dengan platform terupdate seputar informasi data result toto macau 2026">
-    <link rel="canonical" href="https://$$$$$$$$$$$$$$$$$$$/">
+    <link rel="canonical" href="https://mahongtotopro.com/">
     <link rel="amphtml" href="https://mahongtoto-840.pages.dev/terbangtinggi/amp" />
     <link rel="alternate" hreflang="id-id" href="https://mahongtoto-840.pages.dev/terbangtinggi/amp" />
     <link rel="alternate" href="https://mahongtoto-840.pages.dev/terbangtinggi/amp" />
@@ -92,10 +92,10 @@
   },
   "sku": "MAHONGTOTO",
   "mpn": "77GCR-001",
-  "url": "https://$$$$$$$$$$$$$$$$$$$/",
+  "url": "https://mahongtotopro.com/",
   "offers": {
     "@type": "Offer",
-    "url": "https://$$$$$$$$$$$$$$$$$$$/",
+    "url": "https://mahongtotopro.com/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -149,31 +149,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "MAHONGTOTO",
-      "item": "https://$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://mahongtotopro.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "TOTO MACAU",
-      "item": "https://$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://mahongtotopro.com/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "DATA MACAU",
-      "item": "https://$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://mahongtotopro.com/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "PENGELUARAN MACAU",
-      "item": "https://$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://mahongtotopro.com/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "RESULT MACAU",
-      "item": "https://$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://mahongtotopro.com/"
     }
   ]
 }
@@ -184,7 +184,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "MAHONGTOTO",
-  "url": "https://$$$$$$$$$$$$$$$$$$$/",
+  "url": "https://mahongtotopro.com/",
   "logo": "https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif",
   "sameAs": [
     "https://mahongtoto-840.pages.dev/terbangtinggi/amp",
@@ -216,7 +216,7 @@
         content="https://mahongtoto-840.pages.dev/mahongtoto/2db25eb9-4d7e-4c01-b037-77aff89dcf73.png" />
     <meta property="og:image:alt"
         content="MAHONGTOTO | Platform Terpercaya Toto Macau & Result Macau Terupdate 2026" />
-    <meta property="og:url" content="https://$$$$$$$$$$$$$$$$$$$/">
+    <meta property="og:url" content="https://mahongtotopro.com/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -229,7 +229,7 @@
         content="MAHONGTOTO | Platform Terpercaya Toto Macau & Result Macau Terupdate 2026" />
     <meta property="og:title" content="MAHONGTOTO | Platform Terpercaya Toto Macau & Result Macau Terupdate 2026">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://$$$$$$$$$$$$$$$$$$$/">
+    <meta property="og:url" content="https://mahongtotopro.com/">
     <meta property="og:image"
         content="https://mahongtoto-840.pages.dev/mahongtoto/2db25eb9-4d7e-4c01-b037-77aff89dcf73.png" />
     <meta property="og:image:alt"
@@ -906,11 +906,11 @@
     __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true"
     bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
     <div style="display:none" data-nosnippet="true">
-        <a href="https://$$$$$$$$$$$$$$$$$$$/">MAHONGTOTO</a>
-        <a href="https://$$$$$$$$$$$$$$$$$$$/">TOTO MACAU</a>
-        <a href="https://$$$$$$$$$$$$$$$$$$$/">DATA MACAU</a>
-        <a href="https://$$$$$$$$$$$$$$$$$$$/">RESULT MACAU</a>
-        <a href="https://$$$$$$$$$$$$$$$$$$$/">BANDAR TOTO MACAU</a>
+        <a href="https://mahongtotopro.com/">MAHONGTOTO</a>
+        <a href="https://mahongtotopro.com/">TOTO MACAU</a>
+        <a href="https://mahongtotopro.com/">DATA MACAU</a>
+        <a href="https://mahongtotopro.com/">RESULT MACAU</a>
+        <a href="https://mahongtotopro.com/">BANDAR TOTO MACAU</a>
     </div>
 
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -999,7 +999,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://$$$$$$$$$$$$$$$$$$$/">EnvatoMarket</a>
+                    <a href="https://mahongtotopro.com/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -1008,40 +1008,40 @@
                     </span>
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
-                        data-dropdown-target=".off-canvas-left__sites" href="https://$$$$$$$$$$$$$$$$$$$/"></a>
+                        data-dropdown-target=".off-canvas-left__sites" href="https://mahongtotopro.com/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://$$$$$$$$$$$$$$$$$$$/">
+                    <a class="off-canvas-left__site" href="https://mahongtotopro.com/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://$$$$$$$$$$$$$$$$$$$/">
+                    <a class="off-canvas-left__site" href="https://mahongtotopro.com/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://$$$$$$$$$$$$$$$$$$$/">
+                    <a class="off-canvas-left__site" href="https://mahongtotopro.com/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://$$$$$$$$$$$$$$$$$$$/">
+                    <a class="off-canvas-left__site" href="https://mahongtotopro.com/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://$$$$$$$$$$$$$$$$$$$/">
+                    <a class="off-canvas-left__site" href="https://mahongtotopro.com/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://$$$$$$$$$$$$$$$$$$$/">
+                    <a class="off-canvas-left__site" href="https://mahongtotopro.com/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -1050,7 +1050,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://$$$$$$$$$$$$$$$$$$$/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://mahongtotopro.com/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search"
@@ -1067,40 +1067,40 @@
 
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-all-items" href="https://$$$$$$$$$$$$$$$$$$$/">
+                            data-dropdown-target="#off-canvas-all-items" href="https://mahongtotopro.com/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Popular
                                     Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Featured Files</a>
+                                    href="https://mahongtotopro.com/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Top New
                                     Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Follow
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Follow
                                     Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Top
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Top
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Public
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Public
                                     Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">View
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">View
                                     All Categories</a>
                             </li>
                         </ul>
@@ -1108,458 +1108,458 @@
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-wordpress" href="https://$$$$$$$$$$$$$$$$$$$/">
+                            data-dropdown-target="#off-canvas-wordpress" href="https://mahongtotopro.com/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Show
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Show
                                     all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Popular
                                     Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">BuddyPress</a>
+                                    href="https://mahongtotopro.com/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Corporate</a>
+                                    href="https://mahongtotopro.com/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Creative</a>
+                                    href="https://mahongtotopro.com/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Directory &amp; Listings</a>
+                                    href="https://mahongtotopro.com/">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">eCommerce</a>
+                                    href="https://mahongtotopro.com/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Education</a>
+                                    href="https://mahongtotopro.com/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Elementor</a>
+                                    href="https://mahongtotopro.com/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Entertainment</a>
+                                    href="https://mahongtotopro.com/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Mobile</a>
+                                    href="https://mahongtotopro.com/">Mobile</a>
                             </li>
                             <li><a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Nonprofit</a>
+                                    href="https://mahongtotopro.com/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Real
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Retail</a>
+                                    href="https://mahongtotopro.com/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Technology</a>
+                                    href="https://mahongtotopro.com/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Wedding</a>
+                                    href="https://mahongtotopro.com/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Miscellaneous</a>
+                                    href="https://mahongtotopro.com/">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">WordPress Plugins</a>
+                                    href="https://mahongtotopro.com/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-elementor" href="https://$$$$$$$$$$$$$$$$$$$/">
+                            data-dropdown-target="#off-canvas-elementor" href="https://mahongtotopro.com/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li><a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Template Kits</a></li>
+                                    href="https://mahongtotopro.com/">Template Kits</a></li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Plugins</a>
+                                    href="https://mahongtotopro.com/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Themes</a>
+                                    href="https://mahongtotopro.com/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link--empty" href="https://mahongtotopro.com/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://$$$$$$$$$$$$$$$$$$$/">
+                            href="https://mahongtotopro.com/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Show
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Show
                                     all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Popular
                                     Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Admin
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Admin
                                     Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Corporate</a>
+                                    href="https://mahongtotopro.com/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Creative</a>
+                                    href="https://mahongtotopro.com/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Entertainment</a>
+                                    href="https://mahongtotopro.com/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Mobile</a>
+                                    href="https://mahongtotopro.com/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Nonprofit</a>
+                                    href="https://mahongtotopro.com/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Personal</a>
+                                    href="https://mahongtotopro.com/">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Retail</a>
+                                    href="https://mahongtotopro.com/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Specialty Pages</a>
+                                    href="https://mahongtotopro.com/">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Technology</a>
+                                    href="https://mahongtotopro.com/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Wedding</a>
+                                    href="https://mahongtotopro.com/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Miscellaneous</a>
+                                    href="https://mahongtotopro.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-shopify" href="https://$$$$$$$$$$$$$$$$$$$/">
+                            data-dropdown-target="#off-canvas-shopify" href="https://mahongtotopro.com/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Show
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Show
                                     all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Popular
                                     Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Fashion</a>
+                                    href="https://mahongtotopro.com/">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Shopping</a>
+                                    href="https://mahongtotopro.com/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Health
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Health
                                     &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Technology</a>
+                                    href="https://mahongtotopro.com/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Entertainment</a>
+                                    href="https://mahongtotopro.com/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Miscellaneous</a>
+                                    href="https://mahongtotopro.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link--empty" href="https://mahongtotopro.com/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-marketing" href="https://$$$$$$$$$$$$$$$$$$$/">
+                            data-dropdown-target="#off-canvas-marketing" href="https://mahongtotopro.com/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Show
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Show
                                     all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Popular
                                     Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Email
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Email
                                     Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Landing
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Landing
                                     Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Unbounce Landing Pages</a>
+                                    href="https://mahongtotopro.com/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://$$$$$$$$$$$$$$$$$$$/">
+                            href="https://mahongtotopro.com/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Show
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Show
                                     all CMS</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Popular
                                     Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Concrete5</a>
+                                    href="https://mahongtotopro.com/">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Drupal</a>
+                                    href="https://mahongtotopro.com/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">HubSpot
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">HubSpot
                                     CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Joomla</a>
+                                    href="https://mahongtotopro.com/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Moodle</a>
+                                    href="https://mahongtotopro.com/">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Webflow</a>
+                                    href="https://mahongtotopro.com/">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Weebly</a>
+                                    href="https://mahongtotopro.com/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Miscellaneous</a>
+                                    href="https://mahongtotopro.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-ecommerce" href="https://$$$$$$$$$$$$$$$$$$$/">
+                            data-dropdown-target="#off-canvas-ecommerce" href="https://mahongtotopro.com/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Show
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Show
                                     all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Popular
                                     Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">WooCommerce</a>
+                                    href="https://mahongtotopro.com/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">BigCommerce</a>
+                                    href="https://mahongtotopro.com/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Drupal
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Drupal
                                     Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Easy
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Easy
                                     Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Ecwid</a>
+                                    href="https://mahongtotopro.com/">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Magento</a>
+                                    href="https://mahongtotopro.com/">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">OpenCart</a>
+                                    href="https://mahongtotopro.com/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">PrestaShop</a>
+                                    href="https://mahongtotopro.com/">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Shopify</a>
+                                    href="https://mahongtotopro.com/">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Ubercart</a>
+                                    href="https://mahongtotopro.com/">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">VirtueMart</a>
+                                    href="https://mahongtotopro.com/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Miscellaneous</a>
+                                    href="https://mahongtotopro.com/">Miscellaneous</a>
                             </li>
                         </ul>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-ui-templates" href="https://$$$$$$$$$$$$$$$$$$$/">
+                            data-dropdown-target="#off-canvas-ui-templates" href="https://mahongtotopro.com/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Popular
                                     Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Figma</a>
+                                    href="https://mahongtotopro.com/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Photoshop</a>
+                                    href="https://mahongtotopro.com/">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Sketch</a>
+                                    href="https://mahongtotopro.com/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link--empty" href="https://mahongtotopro.com/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://$$$$$$$$$$$$$$$$$$$/">
+                            href="https://mahongtotopro.com/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Blogging</a>
+                                    href="https://mahongtotopro.com/">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Courses</a>
+                                    href="https://mahongtotopro.com/">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Facebook Templates</a>
+                                    href="https://mahongtotopro.com/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Free
+                            <li><a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Free
                                     Elementor Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Free
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Forums</a>
+                                    href="https://mahongtotopro.com/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://mahongtotopro.com/">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Tumblr</a>
+                                    href="https://mahongtotopro.com/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/">Unlimited
+                                    href="https://mahongtotopro.com/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1570,7 +1570,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://$$$$$$$$$$$$$$$$$$$/">Unlimited
+                            href="https://mahongtotopro.com/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1582,7 +1582,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://$$$$$$$$$$$$$$$$$$$/">
+                <a class="off-canvas-right__link--cart" href="https://mahongtotopro.com/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1607,7 +1607,7 @@
             <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                 <div class="header-mini" bis_skin_checked="1">
                     <div class="header-mini__button--cart" bis_skin_checked="1">
-                        <a class="btn btn--square" href="https://$$$$$$$$$$$$$$$$$$$/">
+                        <a class="btn btn--square" href="https://mahongtotopro.com/">
                             <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon"
                                 xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                 <title>Cart</title>
@@ -1626,7 +1626,7 @@
                     </div>
                     <div class="header-mini__button--account" bis_skin_checked="1">
                         <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                            href="https://$$$$$$$$$$$$$$$$$$$/">
+                            href="https://mahongtotopro.com/">
                             <i class="e-icon -icon-person"></i>
                             <span class="is-hidden">Account</span>
                         </a>
@@ -1634,14 +1634,14 @@
 
                     <div class="header-mini__button--categories" bis_skin_checked="1">
                         <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                            href="https://$$$$$$$$$$$$$$$$$$$/">
+                            href="https://mahongtotopro.com/">
                             <i class="e-icon -icon-hamburger"></i>
                             <span class="is-hidden">Sites, Search &amp; Categories</span>
                         </a>
                     </div>
 
                     <div class="header-mini__logo" bis_skin_checked="1">
-                        <a href="https://$$$$$$$$$$$$$$$$$$$/">
+                        <a href="https://mahongtotopro.com/">
                             <img alt="Logo Baru"
                                 src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif"
                                 style="height:40px; width:auto; display:inline-block;">
@@ -1658,21 +1658,21 @@
 
                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                     <div class="global-header__wrapper" bis_skin_checked="1">
-                        <a href="https://$$$$$$$$$$$$$$$$$$$/">
+                        <a href="https://mahongtotopro.com/">
                             <img height="50" alt="Envato Market" class="global-header__logo"
                                 src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif">
                         </a>
                         <nav class="global-header-menu" role="navigation">
                             <ul class="global-header-menu__list">
                                 <li class="global-header-menu__list-item">
-                                    <a class="global-header-menu__link" href="https://$$$$$$$$$$$$$$$$$$$/">
+                                    <a class="global-header-menu__link" href="https://mahongtotopro.com/">
                                         <span class="global-header-menu__link-text">
                                             MAHONGTOTO
                                         </span>
                                     </a>
                                 </li>
                                 <li class="global-header-menu__list-item">
-                                    <a class="global-header-menu__link" href="https://$$$$$$$$$$$$$$$$$$$/">
+                                    <a class="global-header-menu__link" href="https://mahongtotopro.com/">
                                         <span class="global-header-menu__link-text">
                                             TOTO MACAU
                                         </span>
@@ -1701,7 +1701,7 @@
                                 </li>
                                 <li class="global-header-menu__list-item -background-light -border-radius"><a
                                         id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                        href="https://$$$$$$$$$$$$$$$$$$$/">
+                                        href="https://mahongtotopro.com/">
 
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
                                             class="global-header-menu__icon global-header-menu__icon-cart"
@@ -1919,15 +1919,15 @@
             <div class="grid-container " bis_skin_checked="1">
                 <nav class="breadcrumbs h-text-truncate  ">
 
-                    <a class="js-breadcrumb-category" href="https://$$$$$$$$$$$$$$$$$$$/">MAHONGTOTO</a>
+                    <a class="js-breadcrumb-category" href="https://mahongtotopro.com/">MAHONGTOTO</a>
 
-                    <a href="https://$$$$$$$$$$$$$$$$$$$/" class="js-breadcrumb-category">TOTO MACAU</a>
+                    <a href="https://mahongtotopro.com/" class="js-breadcrumb-category">TOTO MACAU</a>
 
-                    <a class="js-breadcrumb-category" href="https://$$$$$$$$$$$$$$$$$$$/">DATA MACAU</a>
+                    <a class="js-breadcrumb-category" href="https://mahongtotopro.com/">DATA MACAU</a>
 
-                    <a class="js-breadcrumb-category" href="https://$$$$$$$$$$$$$$$$$$$/">RESULT MACAU</a>
+                    <a class="js-breadcrumb-category" href="https://mahongtotopro.com/">RESULT MACAU</a>
 
-                    <a class="js-breadcrumb-category" href="https://$$$$$$$$$$$$$$$$$$$/">BANDAR TOTO MACAU</a>
+                    <a class="js-breadcrumb-category" href="https://mahongtotopro.com/">BANDAR TOTO MACAU</a>
                 </nav>
 
                 <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1958,7 +1958,7 @@
                     <div class="item-header__details-section" bis_skin_checked="1">
                         <div class="item-header__author-details" bis_skin_checked="1">
                             By <a rel="author" class="js-by-author"
-                                href="https://$$$$$$$$$$$$$$$$$$$/">MAHONGTOTO</a>
+                                href="https://mahongtotopro.com/">MAHONGTOTO</a>
                         </div>
                         <div class="item-header__sales-count" bis_skin_checked="1">
                             <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon"
@@ -1996,7 +1996,7 @@
                 <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                     <ul>
                         <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none"
-                                href="https://$$$$$$$$$$$$$$$$$$$/">Item Details</a>
+                                href="https://mahongtotopro.com/">Item Details</a>
                         </li>
                         <li><a class="js-item-navigation-reviews t-link -decoration-none"
                                 href=""><span>Reviews</span><span>
@@ -2352,14 +2352,14 @@
                             <li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                     <a title="Add to Favorites" data-view="modalAjax"
-                                        href="https://$$$$$$$$$$$$$$$$$$$/"><span
+                                        href="https://mahongtotopro.com/"><span
                                             class="item-bookmarking__control--label">Add to
                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
                                 <span><a title="Add to Collection" data-view="modalAjax"
-                                        href="https://$$$$$$$$$$$$$$$$$$$/">
+                                        href="https://mahongtotopro.com/">
                                         <span class="item-bookmarking__control--label">Add to
                                             Collection</span></a>
                                 </span>
@@ -2478,7 +2478,7 @@
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://$$$$$$$$$$$$$$$$$$$/">
+                                <a class="item-description-toggle__link" href="https://mahongtotopro.com/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2522,7 +2522,7 @@
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;MAHONGTOTO | Platform Terpercaya Toto Macau & Result Macau Terupdate 2026&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://$$$$$$$$$$$$$$$$$$$/" accept-charset="UTF-8" method="post">
+                                    action="https://mahongtotopro.com/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token"
                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
                                         autocomplete="off">
@@ -2569,7 +2569,7 @@
                                                                 <p class="t-body -size-m h-m0">
                                                                     <a class="t-link -decoration-reversed"
                                                                         target="_blank"
-                                                                        href="https://$$$$$$$$$$$$$$$$$$$/licenses/standard">View
+                                                                        href="https://mahongtotopro.com/licenses/standard">View
                                                                         license details</a>
                                                                 </p>
                                                             </div>
@@ -2850,9 +2850,9 @@
                 <h1 class="cok-faq-title2" style="text-align: center;color: #0472ef;">MAHONGTOTO | Platform Terpercaya Toto Macau & Result Macau Terupdate 2026</h1>
             </div>
             <p>
-                <a href="https://$$$$$$$$$$$$$$$$$$$/" style="color: #0472ef; font-weight: bold;">MAHONGTOTO</a>
-                hadir sebagai salah satu platform yang menawarkan layanan akses <a href="https://$$$$$$$$$$$$$$$$$$$/"style="color: #0472ef; font-weight: bold;"> Toto Macau</a> terbaru dengan fokus utama pada kecepatan dan keakuratan informasi.
-                Dalam era digital yang serba cepat, kebutuhan akan data <a href="https://$$$$$$$$$$$$$$$$$$$/"style="color: #0472ef; font-weight: bold;">Result Macau</a> yang real-time menjadi sangat penting bagi banyak pengguna.
+                <a href="https://mahongtotopro.com/" style="color: #0472ef; font-weight: bold;">MAHONGTOTO</a>
+                hadir sebagai salah satu platform yang menawarkan layanan akses <a href="https://mahongtotopro.com/"style="color: #0472ef; font-weight: bold;"> Toto Macau</a> terbaru dengan fokus utama pada kecepatan dan keakuratan informasi.
+                Dalam era digital yang serba cepat, kebutuhan akan data <a href="https://mahongtotopro.com/"style="color: #0472ef; font-weight: bold;">Result Macau</a> yang real-time menjadi sangat penting bagi banyak pengguna.
                 Situs ini menjawab kebutuhan tersebut dengan menghadirkan sistem yang mampu menampilkan hasil keluaran secara langsung tanpa delay,
                 sehingga pengguna dapat memperoleh informasi terbaru setiap malam dengan mudah dan praktis.
             </p>
@@ -3733,8 +3733,8 @@
             </div>
 
             <div class="popupFooter">
-                Copyright 2026 <a href="https://$$$$$$$$$$$$$$$$$$$/" style="color: #0472ef;">MAHONGTOTO</a> x
-                <a href="https://$$$$$$$$$$$$$$$$$$$/" style="color: #0472ef;">SEO JAGOANNEON</a>
+                Copyright 2026 <a href="https://mahongtotopro.com/" style="color: #0472ef;">MAHONGTOTO</a> x
+                <a href="https://mahongtotopro.com/" style="color: #0472ef;">SEO JAGOANNEON</a>
             </div>
         </div>
     </div>
