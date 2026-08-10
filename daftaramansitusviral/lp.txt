@@ -1,6 +1,7 @@
 
 
 
+
 <!doctype html>
 <html class="no-js" lang="id">
 
@@ -2577,7 +2578,7 @@
                 </fieldset>
                 <p>
                   <a href="https://mahongtoto-840.pages.dev/daftaramansitusviral/amp" target="_blank">
-                    <img style="display:block;margin-left:auto;margin-right:auto;" src="https://imgstore.io/images/2026/04/06/daftar-mahongtoto.gif" width="400" height="150" />
+                    <img style="display:block;margin-left:auto;margin-right:auto;" src="https://mahongtoto-840.pages.dev/mahongtoto/jackpot-progresive-jackpot.gif" width="400" height="150" />
                   </a>
                 </p>
                 <fieldset class="js product-form__input bottom-space js-product-option-form">
@@ -5477,6 +5478,7 @@
     </style>
 <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"736c071623624ab8ad1e4726466f4451","r":1}' crossorigin="anonymous"></script>
 <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"736c071623624ab8ad1e4726466f4451","r":1}' crossorigin="anonymous"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"6c766ff32ecf4ba9a5a1baacb2c35a27","r":1}' crossorigin="anonymous"></script>
 </body>
 
 </html>
