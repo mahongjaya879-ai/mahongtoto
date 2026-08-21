@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html lang="id">
 
-<head prefix="og: https://$$$$$$$$$$$$$$$$$/ fb: https://$$$$$$$$$$$$$$$$$/ product: https://$$$$$$$$$$$$$$$$$/">
+<head prefix="og: https://kvkjhabua.org/ fb: https://kvkjhabua.org/ product: https://kvkjhabua.org/">
     <script data-breeze="1">
         var LOCALE = 'id\u002DID';
         var BASE_URL = 'https\u003A\u002F\u002Fwww.mothercare.co.id\u002F';
@@ -54,29 +54,29 @@
         href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
     <link rel="preload" as="font" crossorigin="anonymous"
         href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
-    <link rel="canonical" href="https://$$$$$$$$$$$$$$$$$/">
-    <link rel="amphtml" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" />
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="ja">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="en">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="zh-Hant">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="zh-Hans">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="th">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="id">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="ko">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="de">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="es">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="ru">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="fr">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="it">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="ms">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="my">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="pl">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="pt">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="tr">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="vi">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="ar">
-    <link rel="alternate" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" hreflang="x-default">
+    <link rel="canonical" href="https://kvkjhabua.org/">
+    <link rel="amphtml" href="https://amp.kvkjhabua.org/" />
+    <link rel="alternate" href="https://amp.kvkjhabua.org/">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="ja">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="en">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="zh-Hant">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="zh-Hans">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="th">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="id">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="ko">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="de">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="es">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="ru">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="fr">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="it">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="ms">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="my">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="pl">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="pt">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="tr">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="vi">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="ar">
+    <link rel="alternate" href="https://amp.kvkjhabua.org/" hreflang="x-default">
     <link rel="icon" type="image/x-icon"
         href="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png">
     <link rel="shortcut icon" type="image/x-icon"
@@ -224,7 +224,7 @@
         content="https://www.mothercare.co.id/media/catalog/product/1/1/119669web1_1.jpg?optimize=low&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=270&amp;width=270&amp;canvas=270:270">
     <meta property="og:description"
         content="MAHONGTOTO merupakan link alternatif resmi platform game online terbaik 2026 dengan dukungan server internasional menjadikan akses lebih praktis, navigasi sederhana, fitur modern, dan beragam permainan digital menarik untuk dinikmati.">
-    <meta property="og:url" content="https://$$$$$$$$$$$$$$$$$/">
+    <meta property="og:url" content="https://kvkjhabua.org/">
     <meta property="product:price:amount" content="5000">
     <meta property="product:price:currency" content="IDR">
     <script type="text/javascript" id="klevu_initsessiondata">
@@ -550,7 +550,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "MAHONGTOTO",
-  "url": "https://$$$$$$$$$$$$$$$$$/",
+  "url": "https://kvkjhabua.org/",
   "logo": "https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif",
   "description": "MAHONGTOTO merupakan link alternatif resmi platform game online terbaik 2026 dengan dukungan server internasional menjadikan akses lebih praktis, navigasi sederhana, fitur modern, dan beragam permainan digital menarik untuk dinikmati.",
   "foundingDate": "2024",
@@ -573,7 +573,7 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "MAHONGTOTO",
-  "url": "https://$$$$$$$$$$$$$$$$$/"
+  "url": "https://kvkjhabua.org/"
 }
 </script>
     <script type="application/ld+json">
@@ -581,7 +581,7 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "MAHONGTOTO | Link Alternatif Resmi Platform Game Online Terbaik 2026",
-  "url": "https://$$$$$$$$$$$$$$$$$/",
+  "url": "https://kvkjhabua.org/",
   "description": "MAHONGTOTO merupakan link alternatif resmi platform game online terbaik 2026 dengan dukungan server internasional menjadikan akses lebih praktis, navigasi sederhana, fitur modern, dan beragam permainan digital menarik untuk dinikmati.",
   "publisher": {
     "@type": "Organization",
@@ -593,7 +593,7 @@
   },
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://$$$$$$$$$$$$$$$$$/search?q={search_term_string}",
+    "target": "https://kvkjhabua.org/search?q={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }
@@ -655,31 +655,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "MAHONGTOTO",
-      "item": "https://$$$$$$$$$$$$$$$$$/"
+      "item": "https://kvkjhabua.org/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "MAHONGTOTO DAFTAR",
-      "item": "https://$$$$$$$$$$$$$$$$$/"
+      "item": "https://kvkjhabua.org/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "MAHONGTOTO LOGIN",
-      "item": "https://$$$$$$$$$$$$$$$$$/"
+      "item": "https://kvkjhabua.org/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "LINK RESMI MAHONGTOTO",
-      "item": "https://$$$$$$$$$$$$$$$$$/"
+      "item": "https://kvkjhabua.org/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "LINK ALTERNATIF MAHONGTOTO",
-      "item": "https://$$$$$$$$$$$$$$$$$/"
+      "item": "https://kvkjhabua.org/"
     }
   ]
 }
@@ -737,7 +737,7 @@
                             <div class="header_panel_info">
                                 <ul>
                                     <li class="download-app-link">
-                                        <a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp">
+                                        <a href="https://amp.kvkjhabua.org/">
                                             <img width="14" height="14" alt="download icon" loading="lazy"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
                                             download apps
@@ -748,7 +748,7 @@
                                                     <div class="app-content">
                                                         download app from:
                                                         <div class="view code app_store">
-                                                            <a class="sh-store-link" href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp"
+                                                            <a class="sh-store-link" href="https://amp.kvkjhabua.org/"
                                                                 target="_blank"
                                                                 ng-click="callAction($event, 'appStore')">
                                                                 <img loading="lazy" width="200" height="60"
@@ -758,7 +758,7 @@
                                                         </div>
                                                         <div class="view code play_store">
                                                             <a class="sh-store-link" data-test="google-play-link"
-                                                                href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" target="_blank"
+                                                                href="https://amp.kvkjhabua.org/" target="_blank"
                                                                 ng-click="callAction($event, 'appStore')">
                                                                 <img loading="lazy" width="200" height="60"
                                                                     alt="google play" class="sh-store-link__image"
@@ -772,7 +772,7 @@
                                     </li>
 
                                     <li>
-                                        <a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp">
+                                        <a href="https://amp.kvkjhabua.org/">
                                             <img loading="lazy" width="22" height="22" alt="gift registry icon"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
                                             gift registry </a>
@@ -876,15 +876,15 @@
                             </div>
                             <div class="header_panel_info">
                                 <ul>
-                                    <li><a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp"><img loading="lazy" width="22" height="22"
+                                    <li><a href="https://amp.kvkjhabua.org/"><img loading="lazy" width="22" height="22"
                                                 alt="store finder icon"
                                                 src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif">LOGIN</a>
                                     </li>
-                                    <li><a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp"><img loading="lazy" width="22" height="22"
+                                    <li><a href="https://amp.kvkjhabua.org/"><img loading="lazy" width="22" height="22"
                                                 alt="Kanmo Circle logo"
                                                 src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif">DAFTAR</a>
                                     </li>
-                                    <li><a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" target="_blank"><img loading="lazy"
+                                    <li><a href="https://amp.kvkjhabua.org/" target="_blank"><img loading="lazy"
                                                 width="22" height="22" alt="Whatsapp logo"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg">
                                             Contact Us</a></li>
@@ -930,7 +930,7 @@
 
             <div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle
                         Nav</span></span>
-                <a class="logo" href="https://$$$$$$$$$$$$$$$$$/" title="" aria-label="store logo">
+                <a class="logo" href="https://kvkjhabua.org/" title="" aria-label="store logo">
                     <img src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif"
                         title="" alt="" width="155" height="28">
                 </a>
@@ -941,19 +941,19 @@
                         <div class="top-header-components-mc mobile-component">
                             <div class="header_panel_info">
                                 <ul>
-                                    <li><a href="https://$$$$$$$$$$$$$$$$$/"><span><img loading="lazy" width="22"
+                                    <li><a href="https://kvkjhabua.org/"><span><img loading="lazy" width="22"
                                                     height="22" alt="Kanmo Circle logo"
                                                     src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg"></span>about
                                             Kanmo Circle</a></li>
-                                    <li><a href="https://$$$$$$$$$$$$$$$$$/"><img loading="lazy" width="22" height="22"
+                                    <li><a href="https://kvkjhabua.org/"><img loading="lazy" width="22" height="22"
                                                 alt="gift registry icon"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift
                                             registry</a></li>
-                                    <li><a href="https://$$$$$$$$$$$$$$$$$/"><span><img loading="lazy" width="22"
+                                    <li><a href="https://kvkjhabua.org/"><span><img loading="lazy" width="22"
                                                     height="22" alt="store finder icon"
                                                     src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg"></span>store
                                             finder</a></li>
-                                    <li><a href="https://$$$$$$$$$$$$$$$$$/" target="_blank"><span><img loading="lazy"
+                                    <li><a href="https://kvkjhabua.org/" target="_blank"><span><img loading="lazy"
                                                     width="22" height="22" alt="Whatsapp logo"
                                                     src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"></span>contact
                                             us</a></li>
@@ -3321,7 +3321,7 @@ font-size:12px;
                                     </li>
                                     <li id="vesitem-8847317423080612096131144"
                                         class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                                            href="https://$$$$$$$$$$$$$$$$$/" target="_self"
+                                            href="https://kvkjhabua.org/" target="_self"
                                             data-hover-color="#fff !important" data-hover-bgcolor="#ff0000 !important"
                                             data-color="#fff !important" data-bgcolor="#ff0000 !important"
                                             style="color: #fff !important;background-color: #ff0000 !important;"
@@ -3337,7 +3337,7 @@ font-size:12px;
                                 <div class="account-label">
                                     <a href="/customer/account" class="account-link">Akun Saya</a>
                                 </div>
-                                <button><a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp">Masuk</a></button>
+                                <button><a href="https://amp.kvkjhabua.org/">Masuk</a></button>
                             </div>
 
                         </div>
@@ -3459,7 +3459,7 @@ font-size:12px;
                 </script>
 
                 <div class="actions dropdown options switcher-options no-chevron account-dropdown">
-                    <a class="action toggle switcher-trigger" href="https://$$$$$$$$$$$$$$$$$/" title="Akun Saya"
+                    <a class="action toggle switcher-trigger" href="https://kvkjhabua.org/" title="Akun Saya"
                         data-mage-init='{"dropdown":{"dialog":null}}' data-toggle="dropdown"
                         data-trigger-keypress-button="true">
 
@@ -3469,7 +3469,7 @@ font-size:12px;
                     <div class="dropdown switcher-dropdown" data-target="dropdown">
                         <ul class="header links">
                             <li class="link authorization-link loginRevamp" data-label="Atau">
-                                <a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp">
+                                <a href="https://amp.kvkjhabua.org/">
                                     Masuk / buat akun </a>
                             </li>
 
@@ -3485,12 +3485,12 @@ font-size:12px;
 
 
                             <li>
-                                <a href="https://$$$$$$$$$$$$$$$$$/">
+                                <a href="https://kvkjhabua.org/">
                                     buat akun </a>
                             </li>
                             <li>
 
-                                <a href="https://$$$$$$$$$$$$$$$$$/">
+                                <a href="https://kvkjhabua.org/">
                                     <span>Bantuan</span>
                                 </a>
                             </li>
@@ -3500,7 +3500,7 @@ font-size:12px;
 
                 <div
                     class="actions dropdown options switcher-options no-chevron no-chevron wishlist-dropdown dropdown-lg">
-                    <a class="action toggle switcher-trigger" href="https://$$$$$$$$$$$$$$$$$/"
+                    <a class="action toggle switcher-trigger" href="https://kvkjhabua.org/"
                         title="Daftar Keinginan">
 
                         <span class="abs-visually-hidden">Daftar Keinginan</span>
@@ -3509,7 +3509,7 @@ font-size:12px;
                 </div>
 
                 <div data-block="minicart" class="minicart-wrapper">
-                    <a class="action showcart" href="https://$$$$$$$$$$$$$$$$$/" data-bind="scope: 'minicart_content'">
+                    <a class="action showcart" href="https://kvkjhabua.org/" data-bind="scope: 'minicart_content'">
                         <span class="text empty" data-bind="
             css: {
                 empty: !!getCartParam('summary_count') == false
@@ -3694,7 +3694,7 @@ font-size:12px;
                                     </div>
                                 </div>
                                 <div class="kc-cashback check">
-                                    <a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" class="kc-points-lable">
+                                    <a href="https://amp.kvkjhabua.org/" class="kc-points-lable">
                                         <img src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif"
                                             class="kcpoints-img" width="30px">
                                         <span>Earn <span class="price">1.000.000</span> - <span
@@ -3729,7 +3729,7 @@ font-size:12px;
                                         <p data-start="0"> MAHONGTOTO merupakan link alternatif resmi platform game online terbaik 2026 dengan dukungan server internasional menjadikan akses lebih praktis, navigasi sederhana, fitur modern, dan beragam permainan digital menarik untuk dinikmati.</p>
                                     </div><br>
 
-                                    <center><a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" target="_blank">
+                                    <center><a href="https://amp.kvkjhabua.org/" target="_blank">
                                             <img style="display:block;margin-left:auto;margin-right:auto;"
                                                 src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif"
                                                 width="500" height="200">
@@ -3740,7 +3740,7 @@ font-size:12px;
 
                             <div class="product-config">
                                 <div class="product-add-form">
-                                    <form data-product-sku="52135545-AYO01" action="https://$$$$$$$$$$$$$$$$$/"
+                                    <form data-product-sku="52135545-AYO01" action="https://kvkjhabua.org/"
                                         method="post" id="product_addtocart_form">
                                         <input type="hidden" name="product" value="600193">
                                         <input type="hidden" name="selected_configurable_option" value="">
@@ -3783,13 +3783,13 @@ font-size:12px;
                                                         </div>
                                                     </div>
                                                     <div class="actions">
-                                                        <a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp"><button type="button"
+                                                        <a href="https://amp.kvkjhabua.org/"><button type="button"
                                                                 title="add to cart" class="action primary tocart"
                                                                 id="product-addtocart-button"
                                                                 style="background-color: #004f17;">
                                                                 <span>LOGIN</span></button></a>
 
-                                                        <a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" class="action towishlist"
+                                                        <a href="https://amp.kvkjhabua.org/" class="action towishlist"
                                                             data-action="add-to-wishlist"><span>DAFTAR</span></a>
                                                         <script type="text/x-magento-init">
     {
@@ -3963,14 +3963,14 @@ function myFunction() {
                                             width="608" height="608">
                                     </div>
 
-                                    <a href="https://$$$$$$$$$$$$$$$$$/" class="prev" tabindex="-1">
+                                    <a href="https://kvkjhabua.org/" class="prev" tabindex="-1">
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24"
                                             stroke="currentColor">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                                 d="M15 19l-7-7 7-7"></path>
                                         </svg>
                                     </a>
-                                    <a href="https://$$$$$$$$$$$$$$$$$/" class="next" tabindex="-1">
+                                    <a href="https://kvkjhabua.org/" class="next" tabindex="-1">
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24"
                                             stroke="currentColor">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -3979,14 +3979,14 @@ function myFunction() {
                                     </a>
 
                                     <div class="controls">
-                                        <a href="https://$$$$$$$$$$$$$$$$$/" class="zoom zoom-in">
+                                        <a href="https://kvkjhabua.org/" class="zoom zoom-in">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24"
                                                 stroke="currentColor" stroke-width="2">
                                                 <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4">
                                                 </path>
                                             </svg>
                                         </a>
-                                        <a href="https://$$$$$$$$$$$$$$$$$/" class="zoom zoom-out">
+                                        <a href="https://kvkjhabua.org/" class="zoom zoom-out">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24"
                                                 stroke="currentColor" stroke-width="2">
                                                 <path stroke-linecap="round" stroke-linejoin="round" d="M20 12H4">
@@ -3995,7 +3995,7 @@ function myFunction() {
                                         </a>
                                     </div>
 
-                                    <a href="https://$$$$$$$$$$$$$$$$$/" class="close">
+                                    <a href="https://kvkjhabua.org/" class="close">
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24"
                                             stroke="currentColor">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -4005,55 +4005,55 @@ function myFunction() {
                                 </div>
 
                                 <div class="thumbnails ">
-                                    <a class="item active" href="https://$$$$$$$$$$$$$$$$$/" title="View Image">
+                                    <a class="item active" href="https://kvkjhabua.org/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://img.culanseng.org/storage/images/mahongtoto/mahongtoto-25.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://$$$$$$$$$$$$$$$$$/" title="View Image">
+                                    <a class="item" href="https://kvkjhabua.org/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://img.culanseng.org/storage/images/mahongtoto/mahongtoto-25.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://$$$$$$$$$$$$$$$$$/" title="View Image">
+                                    <a class="item" href="https://kvkjhabua.org/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://img.culanseng.org/storage/images/mahongtoto/mahongtoto-25.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://$$$$$$$$$$$$$$$$$/" title="View Image">
+                                    <a class="item" href="https://kvkjhabua.org/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://img.culanseng.org/storage/images/mahongtoto/mahongtoto-25.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://$$$$$$$$$$$$$$$$$/" title="View Image">
+                                    <a class="item" href="https://kvkjhabua.org/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://img.culanseng.org/storage/images/mahongtoto/mahongtoto-25.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://$$$$$$$$$$$$$$$$$/" title="View Image">
+                                    <a class="item" href="https://kvkjhabua.org/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://img.culanseng.org/storage/images/mahongtoto/mahongtoto-25.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://$$$$$$$$$$$$$$$$$/" title="View Image">
+                                    <a class="item" href="https://kvkjhabua.org/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://img.culanseng.org/storage/images/mahongtoto/mahongtoto-25.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://$$$$$$$$$$$$$$$$$/" title="View Image">
+                                    <a class="item" href="https://kvkjhabua.org/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://img.culanseng.org/storage/images/mahongtoto/mahongtoto-25.webp">
                                         </span>
                                     </a>
-                                    <a class="item" href="https://$$$$$$$$$$$$$$$$$/" title="View Image">
+                                    <a class="item" href="https://kvkjhabua.org/" title="View Image">
                                         <span class="slide-image-container">
                                             <img loading="lazy" alt=""
                                                 src="https://img.culanseng.org/storage/images/mahongtoto/mahongtoto-25.webp">
@@ -7905,11 +7905,11 @@ function myFunction() {
                                     data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4>
                                 <div data-content-type="html" data-appearance="default" data-element="main"
                                     data-decoded="true">
-                                    <p><a href="https://$$$$$$$$$$$$$$$$$/">hubungi kami</a></p>
+                                    <p><a href="https://kvkjhabua.org/">hubungi kami</a></p>
                                 </div>
                                 <div data-content-type="html" data-appearance="default" data-element="main"
                                     data-decoded="true">
-                                    <p><a href="https://$$$$$$$$$$$$$$$$$/">bantuan dan faq</a></p>
+                                    <p><a href="https://kvkjhabua.org/">bantuan dan faq</a></p>
                                 </div>
                                 <div data-content-type="html" data-appearance="default" data-element="main"
                                     data-decoded="true">
@@ -7921,13 +7921,13 @@ function myFunction() {
                                     <div class="footer-desktop">
                                         <p>ikuti kami di media sosial</p>
                                         <div style="display:flex;column-gap:20px">
-                                            <a class="item" href="https://$$$$$$$$$$$$$$$$$/"><img width="10"
+                                            <a class="item" href="https://kvkjhabua.org/"><img width="10"
                                                     height="19" alt="facebook icon"
                                                     src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a>
-                                            <a class="item" href="https://$$$$$$$$$$$$$$$$$/"><img width="24"
+                                            <a class="item" href="https://kvkjhabua.org/"><img width="24"
                                                     height="25" alt="instagram icon"
                                                     src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a>
-                                            <a class="item" href="https://$$$$$$$$$$$$$$$$$/"> <img width="24"
+                                            <a class="item" href="https://kvkjhabua.org/"> <img width="24"
                                                     height="25" alt="youtube icon"
                                                     src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a>
                                         </div>
@@ -7959,13 +7959,13 @@ function myFunction() {
                                 <h4 class="heading-download-apps-kanmo-mc" data-content-type="heading"
                                     data-appearance="default" data-element="main">unduh aplikasi MAHONGTOTO</h4>
                                 <div class="footer-apple-store-img" data-content-type="html" data-appearance="default"
-                                    data-element="main" data-decoded="true"><a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp"><img
+                                    data-element="main" data-decoded="true"><a href="https://amp.kvkjhabua.org/"><img
                                             width="200" height="60" loading="lazy"
                                             src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png"
                                             alt="download app apple store">
                                     </a></div>
                                 <div class="footer-google-play-img" data-content-type="html" data-appearance="default"
-                                    data-element="main" data-decoded="true"><a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp"><img
+                                    data-element="main" data-decoded="true"><a href="https://amp.kvkjhabua.org/"><img
                                             width="200" height="60" loading="lazy"
                                             src="https://www.mothercare.co.id/media/wysiwyg/google-en.png"
                                             alt="download app google play"></a>
@@ -7984,13 +7984,13 @@ function myFunction() {
                                     <div class="footer-mobile" style="text-align:center;margin-top:15px;">
                                         <p>ikuti kami di media sosial</p>
                                         <div style="display:flex;column-gap:20px;justify-content: center;">
-                                            <a class="item" href="https://$$$$$$$$$$$$$$$$$/"><img
+                                            <a class="item" href="https://kvkjhabua.org/"><img
                                                     src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"
                                                     alt="facebook icon"></a>
-                                            <a class="item" href="https://$$$$$$$$$$$$$$$$$/"><img
+                                            <a class="item" href="https://kvkjhabua.org/"><img
                                                     src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"
                                                     alt="instagram icon"></a>
-                                            <a class="item" href="https://$$$$$$$$$$$$$$$$$/"> <img
+                                            <a class="item" href="https://kvkjhabua.org/"> <img
                                                     src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"
                                                     alt="youtube icon"></a>
                                         </div>
@@ -8008,7 +8008,7 @@ function myFunction() {
                                         <span><img loading="lazy" width="359" height="90"
                                                 src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png"
                                                 alt="mothercare payment method"></span>
-                                        <span><a target="_blank" href="https://$$$$$$$$$$$$$$$$$/"><img loading="lazy"
+                                        <span><a target="_blank" href="https://kvkjhabua.org/"><img loading="lazy"
                                                     width="117" height="60" style="max-height: 60px;margin:0 auto 15px;"
                                                     src="https://mahongtoto-840.pages.dev/mahongtoto/mahongtotogif.gif"
                                                     alt="iso logo"></a></span>
@@ -8082,7 +8082,7 @@ function myFunction() {
 
         <div id="giftreg-message-pdp" style="display: none;">
 
-            <a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" class="notlogingift">
+            <a href="https://amp.kvkjhabua.org/" class="notlogingift">
                 <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png"
                     alt="">
                 CLAIM BONUS
@@ -8096,7 +8096,7 @@ function myFunction() {
                 let dataMinicart = $('#giftreg-message-minicart');
                 let datapdp = $('#giftreg-message-pdp');
 
-                let formUrl = 'https://$$$$$$$$$$$$$$$$$/';
+                let formUrl = 'https://kvkjhabua.org/';
 
                 // $('.action.showcart').click(function(){
                 // 	setTimeout(function(){
@@ -8481,7 +8481,7 @@ function myFunction() {
                         "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
                         "config": {
                             "multipleWishlistOptions": {
-                                "createUrl": "https://$$$$$$$$$$$$$$$$$/",
+                                "createUrl": "https://kvkjhabua.org/",
                                 "wishlistLink": ".action.towishlist"
                             }
                         }
@@ -8697,31 +8697,31 @@ function myFunction() {
         </style>
 
         <div class="cyber2077-fixed-footer">
-            <a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" target="_blank" rel="nofollow noopener">
+            <a href="https://amp.kvkjhabua.org/" target="_blank" rel="nofollow noopener">
                 <img src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png"
                     alt="PROMO MAHONGTOTO">
                 <span>Promo</span>
             </a>
 
-            <a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" target="_blank" rel="nofollow noopener">
+            <a href="https://amp.kvkjhabua.org/" target="_blank" rel="nofollow noopener">
                 <img src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png"
                     alt="LOGIN MAHONGTOTO">
                 <span>Login</span>
             </a>
 
-            <a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" target="_blank" rel="nofollow noopener" class="center-neon">
+            <a href="https://amp.kvkjhabua.org/" target="_blank" rel="nofollow noopener" class="center-neon">
                 <img src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png"
                     alt="DAFTAR MAHONGTOTO">
                 <span>Daftar</span>
             </a>
 
-            <a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" target="_blank" rel="nofollow noopener">
+            <a href="https://amp.kvkjhabua.org/" target="_blank" rel="nofollow noopener">
                 <img src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png"
                     alt="TELEGRAM MAHONGTOTO">
                 <span>Telegram</span>
             </a>
 
-            <a href="https://mahongtoto-840.pages.dev/linkalternatifresmi/amp" target="_blank" rel="nofollow noopener">
+            <a href="https://amp.kvkjhabua.org/" target="_blank" rel="nofollow noopener">
                 <img src="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png"
                     alt="LIVE CHAT MAHONGTOTO">
                 <span>Live Chat</span>
