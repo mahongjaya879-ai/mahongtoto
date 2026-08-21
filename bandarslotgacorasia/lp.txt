@@ -10,11 +10,11 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta http-equiv="x-ua-compatible" content="IE=Edge"/>
 <meta name="verify-admitad" content="c032480529" />
-<link rel="apple-touch-icon" sizes="180x180" href="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.pngg" />
-<link rel="icon" type="image/png" sizes="32x32" href="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.pngg" />
-<link rel="icon" type="image/png" sizes="16x16" href="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.pngg" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" />
 <link rel="manifest" href="https://assets.bonanza.com/site.webmanifest" />
-<link rel="mask-icon" href="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.pngg" color="#335749" />
+<link rel="mask-icon" href="https://gambar-cuan.pages.dev/mahongtoto/faviconmahong.png" color="#335749" />
 <link rel="canonical" href="https://silvergroup.asia/">
 <link rel="amphtml" href="https://amp.silvergroup.asia/">
 <link rel="alternate" hreflang="id-id" href="https://amp.silvergroup.asia/"/>
